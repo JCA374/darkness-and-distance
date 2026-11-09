@@ -51,3 +51,5 @@ imply (a Geneva trial file, a register entry, Victor's corrections in a second i
 | Robert Walton's letters (reader) | bm_fable |
 | Victor Frankenstein's statement (reader) | bm_daniel |
 | The creature's words (reader) | bm_lewis |
+
+The three readers speak at 0.88 of normal speed, slightly slower than the host, so the documents carry their weight.

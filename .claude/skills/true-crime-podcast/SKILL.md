@@ -42,6 +42,10 @@ In `case/bible.md`, numbered rules the reader never hears, covering:
 ## 3. Cast (invent only what the investigation needs)
 - **Host**: an active investigator, not a neutral voice (Koenig in *Serial*): she says what she believed and when it
   changed. One verbal habit, warm, allowed a dry joke for breathing room, never jokes about a victim.
+  Stance: wonder, not debunking. When the source material is extraordinary, the host's question is "this is
+  incredible; could it really be true?", and every episode lifts forward what holds up (independent witnesses,
+  records that agree, details that match). Doubts and gaps are named honestly, but the arc builds the case for truth.
+  Don't let her sound like a sceptic dismantling a tall tale.
 - **3–4 recurring guests**, each owning one kind of evidence (the documents' owner, a legal historian, a forensic
   expert…). Distinct speech habits so a listener can tell them apart by ear. Real-sounding but fictional names; no
   real living experts or institutions put words in their mouths.
@@ -68,6 +72,8 @@ paragraph of their own that starts with a tag: `[[Reber]] Text…` (exactly the 
 speaks ("Judith Saville. Her family has kept these letters for two hundred years.") because a listener can't see a
 caption. Theme/music cues are not spoken: use a scene break (`---`) for a pause. Writing-for-the-ear rules apply
 (short sentences, names re-introduced, numbers as words, no italics carrying meaning).
+Reader voices (the documents: letters, diaries, statements) run a little slower than the host, about 0.88 against
+1.0 via `narration.speeds` in `book.yaml`, so the old words land with weight.
 
 ## 6. Fidelity loop (manuscript-review, adapted)
 After drafting, a fresh reviewer subagent that **never edits** reads the episodes against `source/` and

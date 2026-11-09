@@ -13,6 +13,10 @@ narration:
     Walton: bm_fable
     Victor: bm_daniel
     Creature: bm_lewis
+  speeds:
+    Walton: 0.88
+    Victor: 0.88
+    Creature: 0.88
 chapters:
   ch01: 'Episode 1: The Man on the Ice'
   ch02: 'Episode 2: Plainpalais'

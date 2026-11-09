@@ -15,9 +15,11 @@ them, in Walton's hand, is the statement of a dying Genevan, Victor Frankenstein
 the being Victor says he made. Together they describe five deaths, one execution, one acquittal and a suspect who was
 never charged, never caught, and last seen on an ice raft drifting north.
 
-Tessa treats it as a cold case. She does not ask the listener to believe in the creature. She asks what the
-documents can prove, who could have done each killing, and why the only person ever punished was a young woman
-everybody now agrees was innocent.
+Tessa treats it as a cold case, and as something astonishing. Her question is "this is incredible; could it really
+be true?", and her method is to lift forward, every time, what holds up: the crew's sighting, the trial record, the
+witnesses, the letters Walton held. She names the doubts honestly, but the season leans toward "it seems to be true",
+not toward debunking. She also asks who could have done each killing, and why the only person ever punished was a
+young woman everybody now agrees was innocent.
 
 The book's events and outcome are unchanged. William, Justine, Clerval, Elizabeth and Alphonse die as in the book;
 Victor dies on Walton's ship; the creature leaves on the ice, saying he will burn himself, and is "lost in darkness
@@ -110,7 +112,7 @@ and distance". The podcast ends where the book ends: no body, no pyre found, no 
 
 | Tag | Name | Who | Voice (Kokoro) | Habit |
 |---|---|---|---|---|
-| host | **Tessa Lind** | Host and reporter. American, works alone with a producer we never hear. Starts sceptical, says when her mind changes. | af_heart (narrator) | "Here's what we know." Counts things. A dry line now and then, never about a victim. |
+| host | **Tessa Lind** | Host and reporter. American, works alone with a producer we never hear. Opens in disbelief, keeps finding that the file holds, and says so each time. | af_heart (narrator) | "Here's what we know." Counts things. A dry line now and then, never about a victim. |
 | Judith | **Judith Saville** | Retired schoolteacher, Kent. A many-times-great-niece of Margaret Saville. Owns the letters. | bf_emma | Precise, teacherly, corrects small errors. Says "mind you". Calls Walton "Robert". |
 | Reber | **Dr Anselm Reber** | Legal historian in Geneva, studies 18th-century Genevan criminal procedure. Fictional. | bm_george | Careful, formal, "in the procedure of the day…". Never says "I think" without "on the documents". |
 | Okafor | **Dr Paul Okafor** | Forensic pathologist, retired, consulted on the deaths from the descriptions. Fictional. | am_michael | Plain, short sentences. "What the body tells you is…" Refuses to go past the evidence. |
@@ -138,7 +140,7 @@ market-woman; the confessor; the Genevan criminal judge; Walton's lieutenant, ma
 
 | Ep | Tessa knows / believes |
 |---|---|
-| 1 | The letters exist and are old; Walton's ship saw a giant on a sledge; Victor's claim to have made a man. Sceptical. |
+| 1 | The letters exist and are old; Walton's ship saw a giant on a sledge; Victor's claim to have made a man. Can't believe it, but the first facts check out. |
 | 2 | William's murder as the family recorded it; Victor's night sighting at Plainpalais (his word only). |
 | 3 | The trial record; the false confession; that Victor stayed silent and why he says he did. |
 | 4 | Victor's account of the making. She cannot test it and says so. Focus: the grave-robbing as a crime. |
@@ -166,3 +168,4 @@ market-woman; the confessor; the Genevan criminal judge; Walton's lieutenant, ma
 | 2026-11-09 | Eight episodes of about 2,300 words. | Claude (proposal) |
 | 2026-11-09 | Three reader voices; other historical quotes are spoken by the host. | Claude (proposal) |
 | 2026-11-09 | The ending stays the book's: suspect lost on the ice, no confirmation of death. | user (true to outcome) |
+| 2026-11-09 | Host tone: wonder, not scepticism. "Could it really be true?", then lift forward what holds. Readers at 0.88 speed for gravity. | user |
