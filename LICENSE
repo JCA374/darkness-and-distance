@@ -1,0 +1,16 @@
+Darkness and Distance
+
+Source text: "Frankenstein; or, The Modern Prometheus" by Mary Wollstonecraft Shelley (1818, revised 1831),
+Project Gutenberg eBook #84. Public domain. The Project Gutenberg licence header/footer in source/ applies to that file.
+
+The podcast scripts (episodes/), case files (case/), site content, cover art and audio are original work,
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+All modern characters are fictional.
+
+Code (tools/, site/build.py) is under the MIT licence:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, to deal in the
+software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies, provided this notice is included. THE SOFTWARE IS PROVIDED "AS IS",
+WITHOUT WARRANTY OF ANY KIND.
+
+Vendored skills in .claude/skills/vendored/ keep their own licences (see VENDORED.txt and LICENSE-NOTE.txt there).

@@ -1,0 +1,50 @@
+title: 'Episode 1: The Man on the Ice'
+kind: fiction
+author: Adapted from Mary Shelley, Frankenstein (1831 text)
+narrator: Kokoro TTS (af_heart)
+narration:
+  narrator: af_heart
+  speed: 1.0
+  paragraph_pause: 0.6
+  characters:
+    Judith: bf_emma
+    Reber: bm_george
+    Okafor: am_michael
+    Walton: bm_fable
+    Victor: bm_daniel
+    Creature: bm_lewis
+chapters:
+  ch01: 'Episode 1: The Man on the Ice'
+  ch02: 'Episode 2: Plainpalais'
+  ch03: 'Episode 3: All Black'
+  ch04: 'Episode 4: The Workshop'
+  ch05: 'Episode 5: The Suspect''s Statement'
+  ch06: 'Episode 6: The Irish Shore'
+  ch07: 'Episode 7: Evian'
+  ch08: 'Episode 8: Darkness and Distance'
+sources:
+  ch01:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep01.md
+    sha1: 069905ee7daf31ce64152eb3687f02c8e2bb1eab
+  ch02:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep02.md
+    sha1: 926beacb458815702b125b63262a45942abf5108
+  ch03:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep03.md
+    sha1: 7c28c8801680abe6259cb8c7d723648049ef0cf6
+  ch04:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep04.md
+    sha1: 86a8ea5993fe86654f5143fd3717cac879b51cce
+  ch05:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep05.md
+    sha1: 4361385fb0841ce51ac93fea747ae7decd213dea
+  ch06:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep06.md
+    sha1: a10f433afcefed80e912fcb40e1a79e808535bc8
+  ch07:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep07.md
+    sha1: 1ce1631087865f24c814927c92e587105676ad00
+  ch08:
+    path: /home/jonas/code/other/true-crime/frankenstine/episodes/ep08.md
+    sha1: 01043b039f26633447ea7ca35422f75f8ab30bba
+cover: cover.jpg

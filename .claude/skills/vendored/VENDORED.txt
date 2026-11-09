@@ -1,0 +1,16 @@
+Downloaded 2026-11-09 while looking for existing true-crime skills. Kept unmodified so they can be re-synced.
+
+true-crime-writer/SKILL.md
+  from FerroxLabs/murage @ f28a6ba, skills-library/true-crime-writer/SKILL.md
+  frontmatter says Apache-2.0; the repository is AGPL-3.0. Treat it as AGPL-3.0 (stricter). Unmodified.
+  Verdict: generic real-world journalism guide (FOIA, interviews, defamation). Useful parts for us:
+  victim-centred ethics, source hierarchy, attribution discipline, "don't mythologise the perpetrator".
+  Not a podcast-writing skill. Used as a reference by ../true-crime-podcast.
+
+documentary-standards/documentary-standards.md
+  from bitwize-music-studio/claude-ai-music-skills @ 597d928, skills/lyric-writer/documentary-standards.md (CC0-1.0).
+  Verdict: short and good. "No fabricated quotes, no internal-state claims, attribute everything" became
+  rules 3-5 of the Rules of the Case.
+
+Rejected: sgasser/claude-skill-podcast (browser TTS only, no writing), heygen style-sampling (video),
+Fuobe youtube-script (one table row on true crime).
