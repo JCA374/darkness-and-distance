@@ -2,7 +2,7 @@ Episode 1. The Man on the Ice.
 
 [pause 1.0]
 
-[[Walton]] We perceived a low carriage, fixed on a sledge and drawn by dogs, pass on towards the north, at the distance of half a mile; a being which had the shape of a man, but apparently of gigantic stature, sat in the sledge and guided the dogs. We watched the rapid progress of the traveller with our telescopes until he was lost among the distant inequalities of the ice.
+[grave] [[Walton]] We perceived a low carriage, fixed on a sledge and drawn by dogs, pass on towards the north, at the distance of half a mile; a being which had the shape of a man, but apparently of gigantic stature, sat in the sledge and guided the dogs. We watched the rapid progress of the traveller with our telescopes until he was lost among the distant inequalities of the ice.
 
 That was written by a ship's captain, in the Arctic, in a letter to his sister. It is dated the fifth of August. The year is not given. Where the year should be, there's a seventeen, and then a dash.
 
@@ -10,11 +10,11 @@ That was written by a ship's captain, in the Arctic, in a letter to his sister. 
 
 From a sea chest in Kent, this is Darkness and Distance. I'm Tessa Lind.
 
-Here's what we know. One northern summer, more than two hundred years ago, an English ship was trapped in the ice somewhere north of Archangel. Its crew saw a giant drive a dog sledge across the frozen sea. The next morning they pulled a dying man off an ice floe. Over the following weeks that man told the captain a story, and the captain wrote it down. In that story there are five deaths. A little boy. A young woman, executed for the boy's murder. A young man found on an Irish beach. A bride on her wedding night. And an old man who, by his son's account, died of grief.
+[grave] Here's what we know. One northern summer, more than two hundred years ago, an English ship was trapped in the ice somewhere north of Archangel. Its crew saw a giant drive a dog sledge across the frozen sea. The next morning they pulled a dying man off an ice floe. Over the following weeks that man told the captain a story, and the captain wrote it down. In that story there are five deaths. A little boy. A young woman, executed for the boy's murder. A young man found on an Irish beach. A bride on her wedding night. And an old man who, by his son's account, died of grief.
 
-Only one person was ever convicted of any of it. Her name was [Justine](/ʤəstˈin/) Moritz, and almost everyone who has read the file agrees she didn't do it.
+[grave] Only one person was ever convicted of any of it. Her name was [Justine](/ʤəstˈin/) Moritz, and almost everyone who has read the file agrees she didn't do it.
 
-The person the file names as the killer was never arrested, never charged and never found. He was last seen drifting north on a raft of ice.
+[grave] The person the file names as the killer was never arrested, never charged and never found. He was last seen drifting north on a raft of ice.
 
 When I first read it, I put the pages down and said out loud, to nobody: this can't be true. Some of what these documents describe should be impossible. Then I did what I always do. I started checking. Dates, distances, who was where, who wrote what down and when. And piece by piece, the file held. Not all of it. But far more than it had any right to.
 
@@ -74,7 +74,7 @@ I want to be precise about what this is. It is the only time in the entire file 
 
 That night the ice broke up. Walton waited for daylight. And in the morning he went on deck.
 
-[[Walton]] In the morning, however, as soon as it was light, I went upon deck and found all the sailors busy on one side of the vessel, apparently talking to someone in the sea. It was, in fact, a sledge, like that we had seen before, which had drifted towards us in the night on a large fragment of ice. Only one dog remained alive; but there was a human being within it whom the sailors were persuading to enter the vessel.
+[grave] [[Walton]] In the morning, however, as soon as it was light, I went upon deck and found all the sailors busy on one side of the vessel, apparently talking to someone in the sea. It was, in fact, a sledge, like that we had seen before, which had drifted towards us in the night on a large fragment of ice. Only one dog remained alive; but there was a human being within it whom the sailors were persuading to enter the vessel.
 
 This man was not a giant. Walton calls him "a European". He spoke English with a foreign accent. And before he would come aboard, half frozen, with one live dog left, he asked a question.
 
@@ -82,13 +82,13 @@ This man was not a giant. Walton calls him "a European". He spoke English with a
 
 Walton told him they were going north, to the pole. And only then did he agree to be saved.
 
-I've read that passage maybe thirty times. A man on a shrinking piece of ice, refusing a rescue until he knows which direction it's going. I don't think he was asking to go home. I think he was asking whether the ship would carry him the way the giant had gone.
+[grave] I've read that passage maybe thirty times. A man on a shrinking piece of ice, refusing a rescue until he knows which direction it's going. I don't think he was asking to go home. I think he was asking whether the ship would carry him the way the giant had gone.
 
 [pause 1.5]
 
 They brought him round with brandy and soup, beside the kitchen stove. For two days he couldn't speak. When he could, Walton kept the crew away from him. But once, the lieutenant asked him why he'd come so far onto the ice in a vehicle like that. Walton says his face went dark, and he answered:
 
-[[Victor]] To seek one who fled from me.
+[grave] [[Victor]] To seek one who fled from me.
 
 The lieutenant asked if the man he was chasing travelled the same way. Yes. Then, the lieutenant said, we think we saw him, the day before we picked you up. And Walton writes that the stranger then asked "a multitude of questions" about the route the other one had taken, a creature he called the daemon. That's the old spelling of demon.
 
@@ -106,7 +106,7 @@ That matters for us, because it means the man who wrote down the statement was n
 
 On the thirteenth of August, Walton is talking about his own ambitions. He says he'd give his fortune, his life, anything, for the knowledge he's after. And the guest breaks down in tears and says this:
 
-[[Victor]] Unhappy man! Do you share my madness? Have you drunk also of the intoxicating draught? Hear me; let me reveal my tale, and you will dash the cup from your lips!
+[grave] [[Victor]] Unhappy man! Do you share my madness? Have you drunk also of the intoxicating draught? Hear me; let me reveal my tale, and you will dash the cup from your lips!
 
 Six days later he offers to tell it. Walton copies down what he said, and the passage is long, so I'll give you the part that matters most.
 
@@ -128,6 +128,6 @@ And the first thing his statement says, once he gets past his childhood, is that
 
 Could that really be true? Everything I was taught says no. But the crew saw the giant. Walton saw him. And before the end, Walton would hold in his own hands letters that only make sense if the story is real. So I'm not going to tell you it's impossible. I'm going to show you what holds.
 
-And the first thing that holds is the worst. A little boy died in a park in Geneva one evening in May, and his father found him at five in the morning. Next time, we start there.
+[grave] And the first thing that holds is the worst. A little boy died in a park in Geneva one evening in May, and his father found him at five in the morning. Next time, we start there.
 
 This has been Darkness and Distance. I'm Tessa Lind.

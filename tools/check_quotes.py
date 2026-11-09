@@ -40,7 +40,7 @@ def main() -> int:
     bad = 0
     for f in files:
         for n, para in enumerate(f.read_text(encoding="utf-8").split("\n\n"), 1):
-            para = para.strip()
+            para = re.sub(r"^\[grave\]\s*", "", para.strip())  # [grave] = read slower, not text
             m = re.match(r"\[\[(\w+)\]\]\s*(.*)", para, re.S)
             if m and m.group(1) in READERS:
                 pieces = [m.group(2)]

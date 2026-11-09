@@ -74,6 +74,12 @@ caption. Theme/music cues are not spoken: use a scene break (`---`) for a pause.
 (short sentences, names re-introduced, numbers as words, no italics carrying meaning).
 Reader voices (the documents: letters, diaries, statements) run a little slower than the host, about 0.88 against
 1.0 via `narration.speeds` in `book.yaml`, so the old words land with weight.
+Grave passages: mark the sad and the frightening paragraphs with a leading `[grave]` (before any speaker tag),
+for example the opening statement of the stakes, a body found, a verdict, a victim's own words, a threat, the
+suspect's confession, or the last image. kokoro-narrate plays them at speed × `narration.grave` (0.9), so the host
+plays at 0.9 and a reader at about 0.79. Aim for about one paragraph in six; never mark analysis or recaps.
+Worked example, with the user's request, the selection rules, all 88 marked passages and A/B audio:
+`examples/grave-passages/`.
 
 ## 6. Fidelity loop (manuscript-review, adapted)
 After drafting, a fresh reviewer subagent that **never edits** reads the episodes against `source/` and

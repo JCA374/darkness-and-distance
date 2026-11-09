@@ -7,3 +7,5 @@
 - Audio via the voice-text skill (studio at ~/code/other/fantasy-audiobook-studio). After re-prep, patch
   `voice/darkness-and-distance/audio/ch05.txt`: "M. Frankenstein" → "Monsieur Frankenstein" (quote must stay verbatim in the episode).
 - Site: `site/build.py`; pushing to main deploys via Actions.
+- Delivery: readers at 0.88 (`narration.speeds`); sad/frightening paragraphs start with `[grave]` (×0.9). Host tone is
+  wonder ("could it really be true?") and builds the case for what holds. Example: `.claude/skills/true-crime-podcast/examples/grave-passages/`.

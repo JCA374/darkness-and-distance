@@ -87,7 +87,7 @@ The modern people in it are invented. · <a href="{REPO}">Source on GitHub</a></
 def transcript(md_text):
     out = []
     for para in md_text.strip().split("\n\n"):
-        para = para.strip()
+        para = re.sub(r"^\[grave\]\s*", "", para.strip())  # narration cue (read slower), not text
         if para.startswith("# "):
             continue
         if para == "---":

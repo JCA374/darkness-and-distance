@@ -6,6 +6,7 @@ narration:
   narrator: af_heart
   speed: 1.0
   paragraph_pause: 0.6
+  grave: 0.9
   characters:
     Judith: bf_emma
     Reber: bm_george
