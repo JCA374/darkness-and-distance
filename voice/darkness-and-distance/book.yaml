@@ -6,7 +6,14 @@ narration:
   narrator: af_heart
   speed: 1.0
   paragraph_pause: 0.6
-  grave: 0.9
+  grave:                 # [grave] paragraphs (sad or frightening)
+    factor: 0.9          # guests and readers: their speed x 0.9 (readers 0.79)
+    speeds:
+      narrator: 0.8      # the host, absolute
+    voices:
+      af_heart: af_heart,af_sarah   # darker blend of the host voice
+    pitch:
+      narrator: -1.5     # semitones down, tempo kept (user chose variant F, 2026-11-09)
   characters:
     Judith: bf_emma
     Reber: bm_george

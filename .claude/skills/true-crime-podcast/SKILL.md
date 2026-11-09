@@ -76,8 +76,11 @@ Reader voices (the documents: letters, diaries, statements) run a little slower 
 1.0 via `narration.speeds` in `book.yaml`, so the old words land with weight.
 Grave passages: mark the sad and the frightening paragraphs with a leading `[grave]` (before any speaker tag),
 for example the opening statement of the stakes, a body found, a verdict, a victim's own words, a threat, the
-suspect's confession, or the last image. kokoro-narrate plays them at speed × `narration.grave` (0.9), so the host
-plays at 0.9 and a reader at about 0.79. Aim for about one paragraph in six; never mark analysis or recaps.
+suspect's confession, or the last image. Speed alone doesn't make a bright voice grave. For the host, use a darker
+blend (`af_heart,af_sarah`), a pitch about 1.5 semitones lower and speed 0.8, with no added pauses between
+sentences (they sound robotic). Readers drop to speed × 0.9 (about 0.79). All of this is set in `narration.grave`.
+Audition two or three takes of the opening before rendering a season. Aim for about one paragraph in six; never
+mark analysis or recaps.
 Worked example, with the user's request, the selection rules, all 88 marked passages and A/B audio:
 `examples/grave-passages/`.
 

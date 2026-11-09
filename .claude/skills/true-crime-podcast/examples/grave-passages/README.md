@@ -25,13 +25,48 @@ narration:
     Walton: 0.88
     Victor: 0.88
     Creature: 0.88
-  grave: 0.9          # [grave] paragraphs: speed x 0.9 on top of the speaker's own speed (default 0.9)
+  grave:              # [grave] paragraphs
+    factor: 0.9       # guests and readers: their own speed x 0.9
+    speeds:
+      narrator: 0.8   # the host, absolute
+    voices:
+      af_heart: af_heart,af_sarah   # the host voice blended 50/50 with a darker, more mature one
+    pitch:
+      narrator: -1.5  # semitones down, tempo kept
 ```
 
 | Who | Normal | `[grave]` |
 |---|---|---|
-| Host, guests | 1.0 | 0.9 |
+| Host | af_heart, 1.0 | af_heart+af_sarah blend, 0.8, pitch −1.5 semitones |
+| Guests | 1.0 | 0.9 |
 | Readers (the documents) | 0.88 | 0.79 |
+
+### Second round: speed alone wasn't enough
+
+> the grave opening is still to quick and happy
+
+Slowing a bright voice (af_heart) keeps it bright, and Kokoro has no emotion control. Four takes of the opening
+statement were rendered in `audio/opening-variants/`:
+
+- A: slower (0.8) with a pause after every sentence
+- B: a darker blend (af_heart + af_sarah)
+- C: a hushed blend (af_heart + af_nicole)
+- D: A pitched down 1.5 semitones
+
+The user picked **B and D** and said "the paus inweteen centense is to long and unnatural". Two combinations followed:
+
+- E: the B blend and the D pitch, with short 0.15 s breaths
+- F: the same, but each paragraph rendered in one go with no added pauses
+
+The user picked **F**. Lessons:
+
+- Mood comes from the voice's colour (blend, pitch), not from speed.
+- Never insert silence between sentences. Kokoro's own rhythm sounds natural, and added gaps sound robotic.
+- Change only what the listener approved. The readers kept 0.79 with no pitch change, because only the host was
+  auditioned.
+- The user approved the creature's grave voice as it was ("i also like the cretures grave voice"): bm_lewis at
+  0.79, with no blend and no pitch change. A deep voice slowed by 0.9 is already grave; only the bright host needed
+  more.
 
 In the script a grave paragraph starts with `[grave]`, before any speaker tag:
 
@@ -45,7 +80,8 @@ The narration-prep step keeps the mark on every piece of a split paragraph. koko
 not text.
 
 88 paragraphs across eight episodes, about 11 per episode and roughly one paragraph in six. The full list is in
-`passages.md`. Listen to `audio/`, where each clip has a `normal` and a `grave` take.
+`passages.md`. Listen to `audio/`, where each clip has a `normal` and a `grave` take (the first round, speed only), and to
+`audio/opening-variants/` (the second round; F is the one in use).
 
 ## How the passages were chosen
 
