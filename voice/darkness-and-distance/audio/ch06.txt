@@ -2,9 +2,9 @@ Episode 6. The Irish Shore.
 
 [pause 1.0]
 
-Here is a deposition given before a magistrate, on the coast of Ireland, by a fisherman who had tripped over something on a dark beach. It's in Victor's statement, in his own summary, so it reaches us third-hand. But it's the only description we have of how they found him.
+[grave] Here is a deposition given before a magistrate, on the coast of Ireland, by a fisherman who had tripped over something on a dark beach. It's in Victor's statement, in his own summary, so it reaches us third-hand. But it's the only description we have of how they found him.
 
-[[Victor]] It appeared to be a handsome young man, about five and twenty years of age. He had apparently been strangled, for there was no sign of any violence except the black mark of fingers on his neck.
+[grave] [[Victor]] It appeared to be a handsome young man, about five and twenty years of age. He had apparently been strangled, for there was no sign of any violence except the black mark of fingers on his neck.
 
 [pause 1.5]
 
@@ -24,21 +24,21 @@ After the glacier, Victor needed a laboratory, and he needed to be away from Gen
 
 And in Scotland, Victor told Henry he wanted to make a tour alone. A month or two. Henry tried to talk him out of it, then gave in. Here's the last thing Victor records him saying to his face.
 
-"I had rather be with you," he said, "in your solitary rambles, than with these Scotch people, whom I do not know; hasten, then, my dear friend, to return, that I may again feel myself somewhat at home, which I cannot do in your absence."
+[grave] "I had rather be with you," he said, "in your solitary rambles, than with these Scotch people, whom I do not know; hasten, then, my dear friend, to return, that I may again feel myself somewhat at home, which I cannot do in your absence."
 
 [pause 1.5]
 
 Victor went north, through the Highlands, and chose an island at the far end of the Orkneys. He describes it as hardly more than a rock: three miserable huts, five inhabitants, the mainland about five miles off. He rented the empty hut, had it repaired, and started work.
 
-One night, by moonlight, he looked up from what he was doing, and the creature was at the window, watching him. Victor says it had followed him the whole way.
+[grave] One night, by moonlight, he looked up from what he was doing, and the creature was at the window, watching him. Victor says it had followed him the whole way.
 
-And Victor destroyed the female, there, in front of it.
+[grave] And Victor destroyed the female, there, in front of it.
 
-[[Victor]] As I looked on him, his countenance expressed the utmost extent of malice and treachery. I thought with a sensation of madness on my promise of creating another like to him, and trembling with passion, tore to pieces the thing on which I was engaged.
+[grave] [[Victor]] As I looked on him, his countenance expressed the utmost extent of malice and treachery. I thought with a sensation of madness on my promise of creating another like to him, and trembling with passion, tore to pieces the thing on which I was engaged.
 
 The creature howled and left. Hours later it came back, into the hut, and they argued. Victor told it, "never will I create another like yourself." And the creature made a threat. It was long, and it ended like this.
 
-[[Creature]] It is well. I go; but remember, I shall be with you on your wedding-night.
+[grave] [[Creature]] It is well. I go; but remember, I shall be with you on your wedding-night.
 
 Then, Victor says, it got into its boat and crossed the water fast towards the mainland, and was gone.
 
@@ -66,23 +66,23 @@ A fisherman said that the night before, about ten o'clock, he'd been coming home
 
 They thought at first he'd drowned and washed up. But his clothes weren't wet. And he wasn't cold. They carried him to an old woman's cottage nearby and tried to bring him round, and Daniel ran to town for an apothecary, and it was too late.
 
-That's the passage you heard at the top. About twenty-five. Strangled. No other sign of violence. The black mark of fingers on his neck.
+[grave] That's the passage you heard at the top. About twenty-five. Strangled. No other sign of violence. The black mark of fingers on his neck.
 
 Then Daniel Nugent spoke. He swore that just before his companion fell, he'd seen a boat with one man in it, a little way out from the shore. And as far as he could tell by starlight, it was the same boat Victor had just landed in. A woman who lived near the beach said that about an hour before she heard of the body, she'd seen a boat with one man in it push off from that part of the shore.
 
 So now you're Mr Kirwin. A stranger lands the next evening, in a small boat, alone, with no good account of himself. Witnesses put a boat like his at the scene. And when the fisherman described the finger marks, the stranger had to grab a chair to stay standing.
 
-Mr Kirwin did the obvious thing. He took Victor to see the body.
+[grave] Mr Kirwin did the obvious thing. He took Victor to see the body.
 
-[[Victor]] I entered the room where the corpse lay and was led up to the coffin. How can I describe my sensations on beholding it?
+[grave] [[Victor]] I entered the room where the corpse lay and was led up to the coffin. How can I describe my sensations on beholding it?
 
-It was Henry.
+[grave] It was Henry.
 
 [pause 1.5]
 
 Victor threw himself on the body. He cried out, according to his own account, that his "murderous machinations" had killed Henry too. Then he collapsed. For two months he had a fever and was close to death. He says his ravings were "frightful", and this is the line I want you to hear.
 
-[[Victor]] I called myself the murderer of William, of [Justine](/ʤəstˈin/), and of [Clerval](/klɛɹvˈɑl/).
+[grave] [[Victor]] I called myself the murderer of William, of [Justine](/ʤəstˈin/), and of [Clerval](/klɛɹvˈɑl/).
 
 He was raving in his own language, so only Mr Kirwin understood. A man accused of a murder, calling himself a murderer, again and again, for two months.
 
@@ -104,11 +104,13 @@ And here's the thing about that signature. Victor has an alibi for both, but the
 
 Whoever kills with their hands on the throat, a grand jury has said at least once that it isn't Victor.
 
+So stop and look at what we have. Two bodies, in two countries, two years apart, with the same mark on the neck. A threat, made days before the second one, that Victor reported and that the timing bears out. And an alibi tested by strangers who had never heard of a creature. When I started this, I thought the giant was the least believable thing in the file. Now he's the only explanation that fits every piece.
+
 [pause 1.5]
 
 But there are two things in this episode I can't close, and I promised I'd tell you when that happens.
 
-The first is the boats. Daniel Nugent saw a single man in a boat that looked like Victor's. Victor says the creature left Orkney in a boat, heading for the mainland. So on the coast that night there may have been two men alone in two small boats, and a man on a dark beach, by starlight, couldn't have told them apart. It could have been either. I don't know.
+The first is the boats. Daniel Nugent saw a single man in a boat that looked like Victor's. Victor says the creature left Orkney in a boat, heading for the mainland. So on the coast that night there may have been two men alone in two small boats, and a man on a dark beach, by starlight, couldn't have told them apart. It could have been either. I don't know. But only one of those two men had just sworn, out loud, that he would have revenge.
 
 The second is worse. Henry [Clerval](/klɛɹvˈɑl/) was in Perth. Victor had a letter from him saying so, the day before. Perth is in Scotland. Henry's body was found on a beach in Ireland, not cold, the night before Victor landed there. How did Henry get to Ireland? Who took him? Did he go willingly? The letters don't say. Victor never asks. Nobody in the file asks. I've read every line twice and it isn't there.
 
@@ -118,7 +120,7 @@ So that's open. It's going to stay open.
 
 [pause 1.5]
 
-Here's where we are. Henry [Clerval](/klɛɹvˈɑl/), who nursed Victor through his first collapse and followed him to Scotland, was found strangled on an Irish beach with the marks of fingers on his neck. Victor was accused, then cleared by a grand jury on an alibi. The creature had threatened him days before.
+[grave] Here's where we are. Henry [Clerval](/klɛɹvˈɑl/), who nursed Victor through his first collapse and followed him to Scotland, was found strangled on an Irish beach with the marks of fingers on his neck. Victor was accused, then cleared by a grand jury on an alibi. The creature had threatened him days before.
 
 And Victor's reading of that threat, "I shall be with you on your wedding-night", was that the creature would come for him. So he went home to Geneva, and he married Elizabeth [Lavenza](/ləvˈɛnzə/). And on the night of the wedding, he carried a pistol.
 

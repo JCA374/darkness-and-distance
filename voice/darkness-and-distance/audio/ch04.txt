@@ -2,9 +2,9 @@ Episode 4. The Workshop.
 
 [pause 1.0]
 
-[[Victor]] In a solitary chamber, or rather cell, at the top of the house, and separated from all the other apartments by a gallery and staircase, I kept my workshop of filthy creation.
+[grave] [[Victor]] In a solitary chamber, or rather cell, at the top of the house, and separated from all the other apartments by a gallery and staircase, I kept my workshop of filthy creation.
 
-[[Victor]] The dissecting room and the slaughter-house furnished many of my materials.
+[grave] [[Victor]] The dissecting room and the slaughter-house furnished many of my materials.
 
 [pause 1.5]
 
@@ -12,13 +12,13 @@ From a sea chest in Kent, this is Darkness and Distance. I'm Tessa Lind.
 
 Last time, [Justine](/ʤəstˈin/) Moritz was tried for the murder of William Frankenstein, convicted, and executed the next morning. Victor Frankenstein sat in that court and said nothing. Afterwards, in her cell, he called himself "the true murderer".
 
-This episode is the one I've been dreading. Because to understand why Victor says he stayed silent, I have to tell you what he says he did. And what he says he did is not possible.
+This episode is the one I've been dreading. Because to understand why Victor says he stayed silent, I have to tell you what he says he did. And what he says he did should not be possible. I've read it a dozen times, and I still don't quite know what to do with it.
 
 So let me set out the ground rules before we start.
 
 I can't test the science. Nobody can. Victor never told anyone how it was done. Walton asked him, more than once, and Walton writes that "on this point he was impenetrable". Victor got angry and asked him whether he was mad.
 
-What I can test is everything around it. The places. The timeline. Who saw what. And the parts of the story that, if they're true, are ordinary crimes.
+What I can test is everything around it. The places. The timeline. Who saw what. And the parts of the story that, if they're true, are ordinary crimes. And I'll tell you now: everything around it holds.
 
 [pause 1.5]
 
@@ -30,7 +30,7 @@ That lecture changed Victor's life. He threw himself into chemistry and anatomy.
 
 To answer it, he says, he first had to study death.
 
-[[Victor]] Now I was led to examine the cause and progress of this decay and forced to spend days and nights in vaults and charnel-houses.
+[grave] [[Victor]] Now I was led to examine the cause and progress of this decay and forced to spend days and nights in vaults and charnel-houses.
 
 [pause 1.5]
 
@@ -50,15 +50,15 @@ So before we get to the impossible part, we already have a young man who, by his
 
 Then comes the night. Victor dates it only by month.
 
-[[Victor]] It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.
+[grave] [[Victor]] It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.
 
 Victor says he had chosen the features to be beautiful. And that when the eyes opened, it was the most horrible thing he'd ever seen. Yellow skin that barely covered the muscles and arteries. Watery eyes almost the same colour as their sockets. Straight black lips.
 
 And here's what he did. He ran. He went into his bedroom, walked up and down, and finally threw himself on the bed in his clothes. He had a nightmare about Elizabeth turning into the corpse of his mother. He woke up, and in the moonlight he says he saw the creature standing at his bed, holding up the curtain, looking at him.
 
-[[Victor]] His jaws opened, and he muttered some inarticulate sounds, while a grin wrinkled his cheeks. He might have spoken, but I did not hear; one hand was stretched out, seemingly to detain me, but I escaped and rushed downstairs.
+[grave] [[Victor]] His jaws opened, and he muttered some inarticulate sounds, while a grin wrinkled his cheeks. He might have spoken, but I did not hear; one hand was stretched out, seemingly to detain me, but I escaped and rushed downstairs.
 
-Read that again in your head. A being, a few hours old, holds out a hand to the only person it knows. It makes sounds. And he runs away.
+[grave] Read that again in your head. A being, a few hours old, holds out a hand to the only person it knows. It makes sounds. And he runs away.
 
 I'm going to come back to that hand in the next episode, when we hear the other side's account of that night.
 
@@ -92,9 +92,11 @@ A brilliant, isolated young man, grieving his mother, spends two years robbing g
 
 On that reading, there is no creature. There's a sick man and his hallucination. And when his little brother is murdered, nearly two years later, the sick man sees his hallucination again, alone, in a thunderstorm, at the scene.
 
-Here's the thing. I'd have bought that, completely, at the end of episode two. And Victor seems to have known it. Remember what he said, the morning he came home to Geneva? He said he'd had a nervous fever "just at the time that I dated my creation, and which would give an air of delirium to a tale otherwise so utterly improbable". He's making the argument against himself, before anyone else can.
+Here's the thing. I wanted to buy that. It's the comfortable answer, and I went looking for it. And Victor seems to have known it. Remember what he said, the morning he came home to Geneva? He said he'd had a nervous fever "just at the time that I dated my creation, and which would give an air of delirium to a tale otherwise so utterly improbable". He's making the argument against himself, before anyone else can.
 
 What that reading has to explain, though, is the thing you heard at the top of the first episode. A ship's crew watching a giant through telescopes on the Arctic ice. Those sailors had never met Victor Frankenstein. And they saw it the day before he arrived.
+
+A hallucination doesn't drive a dog sledge past a whole crew. Every time I think the sick-man answer explains this file, something solid gets in the way. And from here on, the solid things only get harder to explain away.
 
 [pause 1.5]
 

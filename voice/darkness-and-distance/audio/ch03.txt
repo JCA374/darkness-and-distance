@@ -2,7 +2,7 @@ Episode 3. All Black.
 
 [pause 1.0]
 
-[[Victor]] I dared not ask the fatal question, but I was known, and the officer guessed the cause of my visit. The ballots had been thrown; they were all black, and [Justine](/ʤəstˈin/) was condemned.
+[grave] [[Victor]] I dared not ask the fatal question, but I was known, and the officer guessed the cause of my visit. The ballots had been thrown; they were all black, and [Justine](/ʤəstˈin/) was condemned.
 
 [pause 1.5]
 
@@ -20,9 +20,9 @@ Most of what we know about [Justine](/ʤəstˈin/) before the trial comes from t
 
 She came as a servant. But Elizabeth is careful to tell Victor that in Geneva, a servant "does not mean the same thing as a servant in France and England". Caroline grew attached to her, and gave her a better education than she'd planned to. And [Justine](/ʤəstˈin/), in Elizabeth's words, "almost adored her protectress". When Caroline died, it was [Justine](/ʤəstˈin/) who had nursed her.
 
-Then the story turns. One by one, Elizabeth writes, [Justine](/ʤəstˈin/)'s brothers and sister died. Her mother began to think it was a judgement from heaven for loving the others more. She was a Roman Catholic, and, Elizabeth says, "I believe her confessor confirmed the idea which she had conceived." So [Justine](/ʤəstˈin/) was called home. And at home, her mother sometimes begged her forgiveness and much more often accused her of causing her siblings' deaths. The mother died at the beginning of that last winter. And [Justine](/ʤəstˈin/) came back to the Frankensteins, where Elizabeth says, "I love her tenderly."
+[grave] Then the story turns. One by one, Elizabeth writes, [Justine](/ʤəstˈin/)'s brothers and sister died. Her mother began to think it was a judgement from heaven for loving the others more. She was a Roman Catholic, and, Elizabeth says, "I believe her confessor confirmed the idea which she had conceived." So [Justine](/ʤəstˈin/) was called home. And at home, her mother sometimes begged her forgiveness and much more often accused her of causing her siblings' deaths. The mother died at the beginning of that last winter. And [Justine](/ʤəstˈin/) came back to the Frankensteins, where Elizabeth says, "I love her tenderly."
 
-A girl whose own mother blamed her for deaths she didn't cause. Remember that, because it's about to happen again, in a court, in front of thousands of people.
+[grave] A girl whose own mother blamed her for deaths she didn't cause. Remember that, because it's about to happen again, in a court, in front of thousands of people.
 
 [pause 1.5]
 
@@ -30,7 +30,7 @@ I wanted someone who could tell me what that court was. Dr Anselm [Reber](/ɹˈA
 
 [[[Reber](/ɹˈAbəɹ/)]] I have found a file. I must be careful how I say this. It is a thin file, a few sheets, in a box with others from the same years, and the year on the box is damaged. But the accused is named [Justine](/ʤəstˈin/) Moritz, the victim is William Frankenstein, son of the former syndic, and the charge is murder. I have read it many times. On the documents, it agrees with your Victor in every point that matters.
 
-That matters a great deal. Until now, everything we knew about the trial came from Victor, through Walton. This is a record made in the court itself, by people who had never heard of Robert Walton and had no idea what Victor believed.
+When he said that, I had to stop the call for a minute. Until now, everything we knew about the trial came from Victor, through Walton. This is a record made in the court itself, by people who had never heard of Robert Walton and had no idea what Victor believed. A story told by a dying man on a ship in the Arctic, and a file in a box in Geneva. And they agree. If Victor was inventing, he was inventing around a trial that really happened, exactly as he said it did.
 
 So, using both, here is what happened.
 
@@ -90,33 +90,33 @@ The officer said as much to Victor. He said the judges don't like to condemn on 
 
 [pause 1.5]
 
-[Justine](/ʤəstˈin/) asked to see Elizabeth. Elizabeth went, and she took Victor. They found [Justine](/ʤəstˈin/) in a prison cell, sitting on straw, with her hands manacled. And she told them what had happened.
+[grave] [Justine](/ʤəstˈin/) asked to see Elizabeth. Elizabeth went, and she took Victor. They found [Justine](/ʤəstˈin/) in a prison cell, sitting on straw, with her hands manacled. And she told them what had happened.
 
-She said, "I did confess, but I confessed a lie. I confessed, that I might obtain absolution; but now that falsehood lies heavier at my heart than all my other sins."
+[grave] She said, "I did confess, but I confessed a lie. I confessed, that I might obtain absolution; but now that falsehood lies heavier at my heart than all my other sins."
 
-Her confessor, she said, had besieged her ever since she was condemned. He "threatened excommunication and hell fire" in her last moments if she didn't confess. Until, she says, she almost began to think that she was the monster that he said she was. "I had none to support me."
+[grave] Her confessor, she said, had besieged her ever since she was condemned. He "threatened excommunication and hell fire" in her last moments if she didn't confess. Until, she says, she almost began to think that she was the monster that he said she was. "I had none to support me."
 
 A girl whose mother's confessor had told her mother that her children's deaths were a judgement. And now a confessor in a cell, telling her she was a murderer until she signed.
 
 [[[Reber](/ɹˈAbəɹ/)]] On the documents, I cannot tell you what the confessor said. The file does not record it. I can tell you that the pressure she describes was real pressure, in that world. To die excommunicated was not a small thing. People confessed to many things for that.
 
-Elizabeth promised to prove her innocence. [Justine](/ʤəstˈin/) told her not to grieve. She asked to be remembered as "one unjustly condemned". She embraced Elizabeth and told her, "Live, and be happy, and make others so."
+[grave] Elizabeth promised to prove her innocence. [Justine](/ʤəstˈin/) told her not to grieve. She asked to be remembered as "one unjustly condemned". She embraced Elizabeth and told her, "Live, and be happy, and make others so."
 
-And the next morning, [Justine](/ʤəstˈin/) died.
+[grave] And the next morning, [Justine](/ʤəstˈin/) died.
 
-Victor doesn't say how. He says only that "She perished on the scaffold as a murderess!"
+[grave] Victor doesn't say how. He says only that "She perished on the scaffold as a murderess!"
 
 [pause 1.5]
 
 So here's what we know. [Justine](/ʤəstˈin/) Moritz, about whom every person who knew her well spoke kindly, was convicted of the murder of William Frankenstein on circumstantial evidence. The jewel in her pocket was the core of it. She confessed after the verdict, under threat of excommunication, and took the confession back the same day to the people who visited her. She was executed the next morning.
 
-[[[Reber](/ɹˈAbəɹ/)]] And there is one more thing. The city kept a register of sentences, separate from the files. I looked for her name there. It is there. [Justine](/ʤəstˈin/) Moritz, the murder of William Frankenstein, condemned and executed. And there is nothing after it. No later note, no revision, no pardon. As far as the Republic of Geneva was ever told, she did it.
+[grave] [[[Reber](/ɹˈAbəɹ/)]] And there is one more thing. The city kept a register of sentences, separate from the files. I looked for her name there. It is there. [Justine](/ʤəstˈin/) Moritz, the murder of William Frankenstein, condemned and executed. And there is nothing after it. No later note, no revision, no pardon. As far as the Republic of Geneva was ever told, she did it.
 
 Here's what we don't know. Who put the miniature in her pocket. Who walked past that barn at dawn. And why the one person who says he knew the truth sat in that courtroom and said nothing.
 
 Because he did sit there. He says it himself. He says, "A thousand times rather would I have confessed myself guilty of the crime ascribed to [Justine](/ʤəstˈin/), but I was absent when it was committed." He says his statement would only have been taken for the ravings of a madman. And later, in that prison cell, while [Justine](/ʤəstˈin/) was comforting Elizabeth, he says this about himself:
 
-[[Victor]] But I, the true murderer, felt the never-dying worm alive in my bosom, which allowed of no hope or consolation.
+[grave] [[Victor]] But I, the true murderer, felt the never-dying worm alive in my bosom, which allowed of no hope or consolation.
 
 The true murderer. Is that a confession? A little later in his statement, Victor explains what he meant. In his words: "I, not in deed, but in effect, was the true murderer." Not by his hands. By what he'd made. So it isn't a confession. But it's what he said, and I'll come back to it.
 

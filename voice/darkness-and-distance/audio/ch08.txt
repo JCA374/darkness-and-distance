@@ -2,7 +2,7 @@ Episode 8. Darkness and Distance.
 
 [pause 1.0]
 
-[[Walton]] He was soon borne away by the waves and lost in darkness and distance.
+[grave] [[Walton]] He was soon borne away by the waves and lost in darkness and distance.
 
 That's the last line Robert Walton wrote about the case. I'm going to spend this episode getting back to it.
 
@@ -18,13 +18,13 @@ This is the last episode.
 
 Victor's statement ends with a chase.
 
-Before he left Geneva, he says, he went at night to the cemetery where William, Elizabeth and his father were buried. He knelt and swore revenge. And he says he was answered by a laugh, loud and long, and then a voice, close to his ear, in a whisper: "I am satisfied, miserable wretch! You have determined to live, and I am satisfied." The moon came up and he saw a shape running.
+[grave] Before he left Geneva, he says, he went at night to the cemetery where William, Elizabeth and his father were buried. He knelt and swore revenge. And he says he was answered by a laugh, loud and long, and then a voice, close to his ear, in a whisper: "I am satisfied, miserable wretch! You have determined to live, and I am satisfied." The moon came up and he saw a shape running.
 
 He followed it for months. Down the Rhone. To the Mediterranean, where he says he saw it hide on a ship for the Black Sea. Through Tartary and Russia. And it left him messages, he says, cut into tree bark and stone.
 
 Victor says one of them began, "My reign is not yet over", and went on:
 
-[[Creature]] you live, and my power is complete. Follow me; I seek the everlasting ices of the north, where you will feel the misery of cold and frost, to which I am impassive.
+[grave] [[Creature]] you live, and my power is complete. Follow me; I seek the everlasting ices of the north, where you will feel the misery of cold and frost, to which I am impassive.
 
 Sometimes it left him food. A dead hare. Victor says the creature was keeping him alive so the chase could go on.
 
@@ -32,7 +32,7 @@ Then he reached the shore of the frozen sea. He'd bought a sledge and dogs and w
 
 [[[Okafor](/Okˈɑfɔɹ/)]] That's the second time in this file that people other than Victor describe something very large on a sledge. A crew, through telescopes. A village, by Victor's account. I can't do anything with it medically. But I notice it.
 
-Victor followed onto the ice. Three weeks. His dogs died one by one. He says he once saw the other sledge, a mile ahead. Then the ice broke up between them. He was left on a floe, broke up his own sledge to make oars, and that's how Robert Walton's crew found him, on the first of August, with one dog alive.
+[grave] Victor followed onto the ice. Three weeks. His dogs died one by one. He says he once saw the other sledge, a mile ahead. Then the ice broke up between them. He was left on a floe, broke up his own sledge to make oars, and that's how Robert Walton's crew found him, on the first of August, with one dog alive.
 
 He finished telling Walton all this by about the twenty-sixth of August. And he ended by asking Walton to swear something.
 
@@ -56,9 +56,9 @@ Victor hears them and asks what's happening. They're going home, Walton tells hi
 
 Later, Victor speaks to Walton for the last time. He says he's been examining his past conduct and doesn't find it blameworthy. He says he was right to refuse to make a second creature. He doesn't insist that Walton carry on his hunt. And he leaves him with this.
 
-[[Victor]] Seek happiness in tranquillity and avoid ambition, even if it be only the apparently innocent one of distinguishing yourself in science and discoveries.
+[grave] [[Victor]] Seek happiness in tranquillity and avoid ambition, even if it be only the apparently innocent one of distinguishing yourself in science and discoveries.
 
-About half an hour later, Walton writes, he pressed Walton's hand, and "his eyes closed for ever".
+[grave] About half an hour later, Walton writes, he pressed Walton's hand, and "his eyes closed for ever".
 
 Victor Frankenstein died in the cabin of an English ship in the Arctic. Walton doesn't tell us what was done with his body afterwards. Buried at sea, or carried home, or something else. It isn't in the letters.
 
@@ -66,11 +66,11 @@ Victor Frankenstein died in the cabin of an English ship in the Arctic. Walton d
 
 And then, later, at midnight, Walton picks up his pen again.
 
-[[Walton]] I am interrupted. What do these sounds portend? It is midnight; the breeze blows fairly, and the watch on deck scarcely stir. Again there is a sound as of a human voice, but hoarser; it comes from the cabin where the remains of Frankenstein still lie. I must arise and examine.
+[grave] [[Walton]] I am interrupted. What do these sounds portend? It is midnight; the breeze blows fairly, and the watch on deck scarcely stir. Again there is a sound as of a human voice, but hoarser; it comes from the cabin where the remains of Frankenstein still lie. I must arise and examine.
 
 When he comes back to the letter, it's to describe what he found.
 
-[[Walton]] Over him hung a form which I cannot find words to describe—gigantic in stature, yet uncouth and distorted in its proportions. As he hung over the coffin, his face was concealed by long locks of ragged hair; but one vast hand was extended, in colour and apparent texture like that of a mummy.
+[grave] [[Walton]] Over him hung a form which I cannot find words to describe—gigantic in stature, yet uncouth and distorted in its proportions. As he hung over the coffin, his face was concealed by long locks of ragged hair; but one vast hand was extended, in colour and apparent texture like that of a mummy.
 
 Here's why this matters so much. For seven episodes, every time the creature has spoken, it's come to us through Victor. Victor's memory of a conversation years earlier. Victor's corrections in the second ink. Everything.
 
@@ -82,11 +82,11 @@ So, for the first and only time in this case, we hear from the suspect with no V
 
 [pause 1.5]
 
-The creature is weeping over the body. It turns and says, "That is also my victim!"
+[grave] The creature is weeping over the body. It turns and says, "That is also my victim!"
 
 Walton writes that he shut his eyes and tried to remember his duty towards this destroyer, which is to say, his promise to Victor. Instead, he called on it to stay. He tells it its repentance comes too late. And the creature answers him. It talks for a long time. And in the middle of it, it says this.
 
-[[Creature]] Think you that the groans of [Clerval](/klɛɹvˈɑl/) were music to my ears? My heart was fashioned to be susceptible of love and sympathy, and when wrenched by misery to vice and hatred, it did not endure the violence of the change without torture such as you cannot even imagine.
+[grave] [[Creature]] Think you that the groans of [Clerval](/klɛɹvˈɑl/) were music to my ears? My heart was fashioned to be susceptible of love and sympathy, and when wrenched by misery to vice and hatred, it did not endure the violence of the change without torture such as you cannot even imagine.
 
 There it is. Henry [Clerval](/klɛɹvˈɑl/). Strangled on an Irish beach on a night when a grand jury found Victor was in the Orkneys. And here, in front of a witness who never met Victor before that summer, with Victor dead in the coffin between them, the creature owns it.
 
@@ -94,7 +94,7 @@ It goes on. It tells Walton that after [Clerval](/klɛɹvˈɑl/) it went back to
 
 Walton, to his credit, doesn't melt. He calls it a hypocrite. He says it's only sorry because its victim is out of its reach. And the creature says no, not thus, but that it understands why it must look that way. And then it says to Walton directly:
 
-[[Creature]] I have murdered the lovely and the helpless; I have strangled the innocent as they slept and grasped to death his throat who never injured me or any other living thing.
+[grave] [[Creature]] I have murdered the lovely and the helpless; I have strangled the innocent as they slept and grasped to death his throat who never injured me or any other living thing.
 
 That last phrase, the throat of one who never injured anyone, I think is Henry. That's the confession. To Walton, unedited. [Clerval](/klɛɹvˈɑl/), by name. The threat it made at Orkney, carried out. The lovely and the helpless. That's the evidence I promised you last week, and it's why I don't think Victor killed his wife.
 
@@ -106,7 +106,7 @@ So is it a confession that doesn't fit the facts? Or a creature that thinks of a
 
 At the end, it says it's going to leave. It says it's going north, on the ice raft that brought it, to the farthest point on earth, to build itself a funeral pyre and burn, so that nothing is left of it for anyone to learn from. "I shall die," it says.
 
-[[Creature]] Farewell! I leave you, and in you the last of humankind whom these eyes will ever behold.
+[grave] [[Creature]] Farewell! I leave you, and in you the last of humankind whom these eyes will ever behold.
 
 [pause 1.5]
 
@@ -118,7 +118,13 @@ What I can't tell you. How it was made. How Henry [Clerval](/klɛɹvˈɑl/) got 
 
 Nobody ever reported a fire, or remains, or another sighting. Not on that ice, not anywhere.
 
-[[[Reber](/ɹˈAbəɹ/)]] And the register in Geneva still says what it said. [Justine](/ʤəstˈin/) Moritz, the murder of William Frankenstein. I have written a note, for what it is worth, and asked that it be filed beside the entry. On the documents, she did not do it. Someone should say so, in that building, even now.
+So, could it really be true? That's the question I started with, the night I read these pages for the first time and said out loud that they couldn't be. Here's my answer, as honestly as I can give it. Every part of this story I could check, held. The trial happened as Victor said. The court's own clerk wrote down the steps in the barn.
+
+The deaths fit one hand. An Irish jury of strangers cleared the man who would have been the easy answer. A whole crew saw the giant before anyone told them a word. And Robert Walton, who had no reason to lie to his sister and every reason to be frightened, stood in his own cabin and heard the suspect confess.
+
+The only parts I can't check are the impossible ones. And after eight episodes, I've stopped being able to tell you they didn't happen.
+
+[grave] [[[Reber](/ɹˈAbəɹ/)]] And the register in Geneva still says what it said. [Justine](/ʤəstˈin/) Moritz, the murder of William Frankenstein. I have written a note, for what it is worth, and asked that it be filed beside the entry. On the documents, she did not do it. Someone should say so, in that building, even now.
 
 Ernest Frankenstein, the middle brother, is the only member of that household the letters leave alive. After that, he disappears from the record. I've looked. If he has descendants, they haven't found me yet.
 
@@ -126,12 +132,12 @@ Ernest Frankenstein, the middle brother, is the only member of that household th
 
 On my last call with Judith, she was folding the letters back into the oilcloth.
 
-[[Judith]] Robert got home, you know. Well, he must have done, or I wouldn't have these. He never says another word about it, not in anything I've got. I think about him, writing all this to his sister and then having to sit across a table from her and be asked, so, Robert, how was the pole.
+[grave] [[Judith]] Robert got home, you know. Well, he must have done, or I wouldn't have these. He never says another word about it, not in anything I've got. I think about him, writing all this to his sister and then having to sit across a table from her and be asked, so, Robert, how was the pole.
 
 She closed the lid. It's heavy. I heard it on the call.
 
 Here's how Walton ended it, on the night of the twelfth of September, in a year that is just a seventeen and a dash.
 
-[[Walton]] He sprang from the cabin-window as he said this, upon the ice raft which lay close to the vessel. He was soon borne away by the waves and lost in darkness and distance.
+[grave] [[Walton]] He sprang from the cabin-window as he said this, upon the ice raft which lay close to the vessel. He was soon borne away by the waves and lost in darkness and distance.
 
 This has been Darkness and Distance. I'm Tessa Lind. Thank you for listening.

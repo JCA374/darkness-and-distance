@@ -2,7 +2,7 @@ Episode 7. Evian.
 
 [pause 1.0]
 
-[[Victor]] I discovered no trace of him and was beginning to conjecture that some fortunate chance had intervened to prevent the execution of his menaces when suddenly I heard a shrill and dreadful scream.
+[grave] [[Victor]] I discovered no trace of him and was beginning to conjecture that some fortunate chance had intervened to prevent the execution of his menaces when suddenly I heard a shrill and dreadful scream.
 
 [pause 1.5]
 
@@ -10,7 +10,7 @@ From a sea chest in Kent, this is Darkness and Distance. I'm Tessa Lind.
 
 Last time, Henry [Clerval](/klɛɹvˈɑl/) was found strangled on an Irish beach. Victor was arrested, raved for two months that he was the murderer, and was cleared by a grand jury because he'd been in the Orkneys. Days before Henry died, the creature had told Victor, "I shall be with you on your wedding-night."
 
-This episode is about Elizabeth [Lavenza](/ləvˈɛnzə/). And it's the episode where I have to take seriously the theory that Victor did it.
+This episode is about Elizabeth [Lavenza](/ləvˈɛnzə/). And it's the episode where I have to test the one theory that could still make all of this ordinary: that Victor did it.
 
 [pause 1.5]
 
@@ -18,7 +18,7 @@ Let's start with her, because she deserves it.
 
 Elizabeth came into the Frankenstein house as a small child, an orphan from the shores of Lake Como. She grew up as Victor's "more than sister". When his mother was dying, it was Elizabeth's hand she joined to Victor's. After that, Elizabeth ran the household and raised the younger boys.
 
-You've heard her already in this series. In episode two, she's the one who examined William's neck and cried out that she'd killed him, because she'd let him wear the miniature. In episode three, she's the only person in a hostile court who stood up and defended [Justine](/ʤəstˈin/) Moritz, and and the one who went to see her in prison, taking Victor with her. Every time this story asks someone to be brave, it's Elizabeth.
+You've heard her already in this series. In episode two, she's the one who examined William's neck and cried out that she'd killed him, because she'd let him wear the miniature. In episode three, she's the only person in a hostile court who stood up and defended [Justine](/ʤəstˈin/) Moritz, and the one who went to see her in prison, taking Victor with her. Every time this story asks someone to be brave, it's Elizabeth.
 
 When Victor and his father reached Paris on the way home, a letter from Elizabeth caught up with them. It's dated the eighteenth of May. It's the most direct thing anyone writes to Victor in the whole file. She reminds him that their families always planned for them to marry. And then she writes, "Answer me, I conjure you by our mutual happiness, with simple truth—Do you not love another?"
 
@@ -30,7 +30,7 @@ Victor's answer is important for our case, so I want you to hear how he made the
 
 He wrote back to Elizabeth. He told her he had a secret.
 
-[[Victor]] I have one secret, Elizabeth, a dreadful one; when revealed to you, it will chill your frame with horror, and then, far from being surprised at my misery, you will only wonder that I survive what I have endured. I will confide this tale of misery and terror to you the day after our marriage shall take place.
+[grave] [[Victor]] I have one secret, Elizabeth, a dreadful one; when revealed to you, it will chill your frame with horror, and then, far from being surprised at my misery, you will only wonder that I survive what I have endured. I will confide this tale of misery and terror to you the day after our marriage shall take place.
 
 The day after. Hold onto that.
 
@@ -42,29 +42,29 @@ They were married in Geneva. After the ceremony there was a large party at his f
 
 Victor says that on her wedding day Elizabeth was melancholy, and that his father took it for a bride's nerves. They landed at Evian at eight in the evening. They walked on the shore, then went to the inn.
 
-The wind rose in the west. A storm of rain came down. And Victor, he says, kept one hand on a pistol hidden in his clothes.
+[grave] The wind rose in the west. A storm of rain came down. And Victor, he says, kept one hand on a pistol hidden in his clothes.
 
-Elizabeth noticed. She asked him what was frightening him. He told her, "this night, and all will be safe; but this night is dreadful, very dreadful." After an hour, he asked her to go to bed. He would join her, he said, once he knew where his enemy was.
+[grave] Elizabeth noticed. She asked him what was frightening him. He told her, "this night, and all will be safe; but this night is dreadful, very dreadful." After an hour, he asked her to go to bed. He would join her, he said, once he knew where his enemy was.
 
 So Victor walked up and down the passages of the inn, checking every corner. He found nothing. He'd begun to think the creature might not come.
 
-And then, the scream from the top of this episode. It came from the room Elizabeth had gone to. It came again. He ran in.
+[grave] And then, the scream from the top of this episode. It came from the room Elizabeth had gone to. It came again. He ran in.
 
-[[Victor]] She was there, lifeless and inanimate, thrown across the bed, her head hanging down and her pale and distorted features half covered by her hair.
+[grave] [[Victor]] She was there, lifeless and inanimate, thrown across the bed, her head hanging down and her pale and distorted features half covered by her hair.
 
-He fainted. When he came to, the people of the inn were around him. Someone had moved her, and covered her face and neck with a handkerchief. He went back in.
+[grave] He fainted. When he came to, the people of the inn were around him. Someone had moved her, and covered her face and neck with a handkerchief. He went back in.
 
-[[Victor]] The murderous mark of the fiend's grasp was on her neck, and the breath had ceased to issue from her lips.
+[grave] [[Victor]] The murderous mark of the fiend's grasp was on her neck, and the breath had ceased to issue from her lips.
 
 [pause 1.5]
 
-Then, Victor says, he looked up. The shutters, which had been closed, were open. The moon was shining in. And at the open window there was a figure. He says it grinned, and pointed at Elizabeth's body. He drew his pistol and fired. It leapt away, ran, and plunged into the lake.
+[grave] Then, Victor says, he looked up. The shutters, which had been closed, were open. The moon was shining in. And at the open window there was a figure. He says it grinned, and pointed at Elizabeth's body. He drew his pistol and fired. It leapt away, ran, and plunged into the lake.
 
 The shot brought a crowd. They went out in boats. They cast nets. Nothing. They searched the woods and the vineyards in parties. Nothing.
 
 And here is the line I've been waiting six episodes to read you.
 
-[[Victor]] After passing several hours, we returned hopeless, most of my companions believing it to have been a form conjured up by my fancy.
+[grave] [[Victor]] After passing several hours, we returned hopeless, most of my companions believing it to have been a form conjured up by my fancy.
 
 Most of the people who were there, that night, at Evian, didn't believe there was anyone at the window.
 
@@ -102,7 +102,7 @@ Then there's the barn. [Justine](/ʤəstˈin/) told the court, and a clerk wrote
 
 And then there's the ice. The sailors who saw a giant on a sledge, the day before Victor turned up. None of them had ever met him.
 
-So no. I don't think Victor killed Elizabeth. I think he's the worst witness in this case, and possibly the most tragic, and that's not the same thing. But I'll say this: if all we had was Evian, I'd be looking at the husband. Everybody would. Most of the people at the inn that night were.
+So no. I don't think Victor killed Elizabeth. I tried as hard as I could to make that theory work, because it would let the world stay the size I thought it was. It doesn't work. I think he's the worst witness in this case, and possibly the most tragic, and that's not the same thing. But I'll say this: if all we had was Evian, I'd be looking at the husband. Everybody would. Most of the people at the inn that night were.
 
 And I haven't played you the one piece of evidence that settles it for me. It's not in Victor's statement. It's in the last of Walton's letters. Next week.
 
@@ -114,11 +114,11 @@ There's one more thing from this night that I can't make fit, and I'll flag it n
 
 Here's what happened after Evian.
 
-Victor went back to Geneva. His father and Ernest were alive. But when Victor told his father that Elizabeth was dead, [Alphonse](/ˈælfɑns/) Frankenstein went to bed and didn't get up. Within a few days he died in Victor's arms. That's the fifth death.
+[grave] Victor went back to Geneva. His father and Ernest were alive. But when Victor told his father that Elizabeth was dead, [Alphonse](/ˈælfɑns/) Frankenstein went to bed and didn't get up. Within a few days he died in Victor's arms. That's the fifth death.
 
 And then, Victor says, he lost his reason, and Geneva locked him up.
 
-[[Victor]] For they had called me mad, and during many months, as I understood, a solitary cell had been my habitation.
+[grave] [[Victor]] For they had called me mad, and during many months, as I understood, a solitary cell had been my habitation.
 
 About a month after he was released, he did, finally, what he'd refused to do at [Justine](/ʤəstˈin/)'s trial. He went to a criminal judge in Geneva and made a full statement. The creature, the making, the murders. All of it.
 
