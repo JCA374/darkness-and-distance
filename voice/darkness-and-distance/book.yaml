@@ -1,4 +1,4 @@
-title: 'Episode 1: The Man on the Ice'
+title: 'Darkness and Distance'
 kind: fiction
 author: Adapted from Mary Shelley, Frankenstein (1831 text)
 narrator: Kokoro TTS (af_heart)
@@ -21,11 +21,14 @@ narration:
     Walton: bm_fable
     Victor: bm_daniel
     Creature: bm_lewis
+    Archive: bf_isabella
   speeds:
     Walton: 0.88
     Victor: 0.88
     Creature: 0.88
+    Archive: 0.88
 chapters:
+  ch00: 'Trailer: Could It Be True?'
   ch01: 'Episode 1: The Man on the Ice'
   ch02: 'Episode 2: Plainpalais'
   ch03: 'Episode 3: All Black'

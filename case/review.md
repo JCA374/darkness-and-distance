@@ -42,3 +42,31 @@ Two independent readers ran in parallel: a **fidelity audit** (episodes vs. the 
 | r1-30 | — | pace | nit | Recaps and "hold onto" cues repeat | wontfix: recaps are a serial convention for listeners joining late |
 
 > keep: three-layer chain of custody ep01→ep08; the scraped second ink; Okafor never past the evidence; ep07's full-strength case against Victor; every open question left open; Justine and Elizabeth as people; Reber's note beside the register; Walton's words open and close the season.
+
+## Round 2 (2026-11-10): believer host, archive hunt, hooks
+
+An independent reviewer read the novel, the bible, the evidence and all nine scripts (ep00–ep08), and only
+reported; it edited nothing.
+
+| ID | Finding | Fix | Status |
+|---|---|---|---|
+| r2-1 | ep01 says the second ink is "crossed out"; ep05 and E62 say it was scraped | ep01: "scraped away and other words written over them" | fixed |
+| r2-2 | ep03 "Every person who knew her believed her" (L2492: witnesses were timorous); ep00 "almost everyone who knew her" | Elizabeth believed her; the others spoke well of her but were afraid; ep00: "the family she'd lived with swore she didn't do it" | fixed |
+| r2-3 | ep07 "Most of the people at the inn… were [looking at the husband]": the book says only that they thought him fanciful (L6445) | cut | fixed |
+| r2-4 | ep06 "two years apart" (William in May; Clerval after a tour ending late July the following year) | "a little over a year apart" | fixed |
+| r2-5 | ep05 Reber invents a time for the barn; the miss count is muddled | the real discrepancy: the creature finds her asleep, she says she lay awake (L2470ff); "with the pocket, that's three" | fixed |
+| r2-6 | ep05 "whose own life story the Paris police confirmed" overclaims E82 | "whose account of the De Laceys…" | fixed |
+| r2-7 | ep08 Lloyd's List names the Thames (a new detail); E86 not read as an Archive line | "Arrived, from Archangel, master Walton." as [[Archive]], entered in evidence.md | fixed |
+| r2-8 | Rule 5: inner states stated as fact (ep02 Ernest, ep06 Henry, ep04 "got angry") | attributed, or replaced by Walton's quote "Are you mad, my friend?" | fixed |
+| r2-9 | ep06 "a grand jury has said at least once…" and "the only explanation that fits every piece" overreach | "A grand jury has said, once, that the hand wasn't Victor's"; "fits the most pieces" | fixed |
+| r2-10 | "two hundred years" phrasing near rule 3 | names no year; kept | wontfix |
+| r2-11 | ep02 "they describe the same figure" overclaims | "a figure of the same size" | fixed |
+| r2-12 | Trailer should end on the question | "Could it really be true?" moved to the last line | fixed |
+| r2-13 | ep07 cliffhanger buried mid-episode | moved to just before the closing tease | fixed |
+| r2-14 | ep03 ends on a promise, not a question | new last beat: confessing "to something nobody in that courtroom had a word for" | fixed |
+| r2-15 | ep04 promises "the one record Victor never touched", but ep05 uses several | "records Victor never touched" | fixed |
+| r2-16 | ep04 "everything around it holds", said before any evidence | "so far, everything around it has held" | fixed |
+| r2-17 | Ledger: "Robert is home" not opened in ep01 | ep01: Judith holds back a later letter, "not yet" | fixed |
+| r2-18 | Ledger: two boats never closed on air | ep08: "of the two men in two boats… this is the one who says it was him" | fixed |
+| r2-19 | Ledger: the Plainpalais figure only partly closes | ep05 says on air that the creature doesn't mention the storm sighting; ledger marked partial | fixed |
+| r2-20 | Other loops open and close as listed | — | ok |

@@ -10,8 +10,10 @@ The novel is already a case file. It's written as letters from an Arctic captain
 Inside them is Victor Frankenstein's dying statement, and inside that, the statement of the being he made. Read as
 true crime, the book has five deaths, a wrongful execution, an acquittal on an alibi, and a suspect who was never
 charged and was last seen on the ice. The podcast keeps every past event and the book's ending. It invents only the
-investigation: a host, three guests, a sea chest in Kent, and a small set of artefacts that the book's own events
-imply (a Geneva trial file, a register entry, Victor's corrections in a second ink).
+investigation: a host, three guests, a sea chest in Kent, Victor's corrections in a second ink, and the archive
+documents Tessa finds, one per episode (a burial register, a trial file, a university register, the Paris police
+papers, a notary's act, a Savoy death entry, Lloyd's List). Every find only confirms what the novel says, none closes
+a question the novel leaves open, and each one is on file in the evidence locker.
 
 ## Method
 
@@ -51,5 +53,6 @@ imply (a Geneva trial file, a register entry, Victor's corrections in a second i
 | Robert Walton's letters (reader) | bm_fable |
 | Victor Frankenstein's statement (reader) | bm_daniel |
 | The creature's words (reader) | bm_lewis |
+| Archive documents (reader, invented) | bf_isabella |
 
-The three readers speak at 0.88 of normal speed, slightly slower than the host, so the documents carry their weight.
+The readers speak at 0.88 of normal speed, slightly slower than the host, so the documents carry their weight.

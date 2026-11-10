@@ -20,6 +20,9 @@ Invented or unusual names and words, with how they should sound (narration-prep 
 | Plainpalais | plan-puh-LAY | plænpəlˈA | the plain outside Geneva |
 | Krempe | KREM-puh | kɹˈɛmpə | professor at Ingolstadt |
 | Evian | ok | ok | Kokoro: EV-ee-un |
+| Annecy | AN-see | ˈænsi | Savoy archive town |
+| Petersburgh | ok | ok | Walton's spelling of Petersburg |
+| De Lacey | ok | ok | |
 | Frankenstein | ok | ok | |
 | Saville | ok | ok | |
 | Moritz | ok | ok | |

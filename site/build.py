@@ -25,6 +25,7 @@ SPEAKERS = {
     "Walton": ("Robert Walton (letters, read)", "reader"),
     "Victor": ("Victor Frankenstein (statement, read)", "reader"),
     "Creature": ("The creature (as recorded, read)", "reader"),
+    "Archive": ("Archive document (invented for this podcast, read)", "reader"),
 }
 
 CSS = """
@@ -135,24 +136,26 @@ def main():
         shutil.copy(f, OUT / "audio" / f.name)
 
     cards = []
+    first, last = min(e["n"] for e in EPISODES), max(e["n"] for e in EPISODES)
     for e in EPISODES:
         n = e["n"]
+        label = "Trailer" if n == 0 else f"Episode {n}"
         mp3 = f"audio/ch{n:02d}.mp3"
         player = f'<audio controls preload="none" src="{mp3}"></audio>' if (AUDIO / f"ch{n:02d}.mp3").exists() else '<p class="meta">Audio coming soon.</p>'
-        cards.append(f"""<div class="ep"><h3><a href="ep/ep{n:02d}.html">Episode {n}: {html.escape(e['title'])}</a></h3>
+        cards.append(f"""<div class="ep"><h3><a href="ep/ep{n:02d}.html">{label}: {html.escape(e['title'])}</a></h3>
 <div class="meta">{duration(n)}</div>{player}<p>{html.escape(e['summary'])}</p></div>""")
         md = (ROOT / "episodes" / f"ep{n:02d}.md").read_text(encoding="utf-8")
-        prev = f'<a href="ep{n-1:02d}.html">← Episode {n-1}</a>' if n > 1 else "<span></span>"
-        nxt = f'<a href="ep{n+1:02d}.html">Episode {n+1} →</a>' if n < len(EPISODES) else "<span></span>"
+        prev = f'<a href="ep{n-1:02d}.html">← {"Trailer" if n == 1 else f"Episode {n-1}"}</a>' if n > first else "<span></span>"
+        nxt = f'<a href="ep{n+1:02d}.html">Episode {n+1} →</a>' if n < last else "<span></span>"
         notes = "".join(f"<li>{html.escape(x)}</li>" for x in e.get("notes", []))
         body = f"""<p class="meta"><a href="../index.html#episodes">All episodes</a></p>
-<h1>Episode {n}: {html.escape(e['title'])}</h1>
+<h1>{label}: {html.escape(e['title'])}</h1>
 {('<audio controls preload="none" src="../' + mp3 + '"></audio>') if (AUDIO / f"ch{n:02d}.mp3").exists() else ''}
 <p class="lede">{html.escape(e['summary'])}</p>
 <h2>Show notes</h2><ul>{notes}</ul>
 <h2>Transcript</h2><div class="transcript">{transcript(md)}</div>
 <div class="pager">{prev}{nxt}</div>"""
-        (OUT / "ep" / f"ep{n:02d}.html").write_text(page(f"Episode {n}: {e['title']} · Darkness and Distance", body, 1), encoding="utf-8")
+        (OUT / "ep" / f"ep{n:02d}.html").write_text(page(f"{label}: {e['title']} · Darkness and Distance", body, 1), encoding="utf-8")
 
     book = ""
     if m4b:
@@ -160,13 +163,15 @@ def main():
         book = f'<a class="btn" href="audio/{html.escape(m4b[0].name)}" download>Download the whole season as an audiobook (.m4b, {mb:.0f} MB)</a>'
     index = f"""<section class="hero"><img src="cover.jpg" alt="Cover: a dog sledge on the Arctic ice under a night sky">
 <div><h1>Darkness and Distance</h1>
-<p class="lede">A true-crime podcast in eight episodes. A retired teacher in Kent finds her ancestor's letters from the Arctic.
-Inside them: five deaths, one execution, one acquittal, and a suspect last seen drifting north on the ice.</p>
+<p class="lede">For a year, Tessa Lind tried to prove that a sea captain's letters from the Arctic were lying. She couldn't.
+Five deaths, a young woman executed for a murder she didn't commit, and a suspect last seen drifting north on the ice.
+Eight episodes and a trailer. Could it really be true?</p>
 {book}<a class="btn" href="case.html">Open the case file</a></div></section>
 <div class="note"><b>This is fiction.</b> It retells Mary Shelley's novel <i>Frankenstein</i> (1818; 1831 text) as a cold-case investigation.
 Every event, date and quotation from the past comes from the novel, and nothing in it changes the book's outcome.
-The host, Tessa Lind, and her guests Judith Saville, Dr Anselm Reber and Dr Paul Okafor are invented, as are the Geneva trial file
-and the second ink in the letters. Voices are synthetic (Kokoro text-to-speech).</div>
+The host, Tessa Lind, and her guests Judith Saville, Dr Anselm Reber and Dr Paul Okafor are invented, as are the second ink in the
+letters and every archive document Tessa finds (the Saville family papers, the Geneva trial file and registers, the university register,
+the Paris police papers, the Savoy register and the Lloyd's List entry). They only ever confirm what the novel says. Voices are synthetic (Kokoro text-to-speech).</div>
 <h2 id="episodes">Episodes</h2>
 {''.join(cards)}"""
     (OUT / "index.html").write_text(page("Darkness and Distance · a true-crime podcast", index), encoding="utf-8")
@@ -179,7 +184,7 @@ and the second ink in the letters. Voices are synthetic (Kokoro text-to-speech).
     making = doc_page("How it was made", ["site/making.md", "case/review.md"],
                       "From a public-domain novel to eight checked episodes and an audiobook.")
     (OUT / "making.html").write_text(page("How it was made · Darkness and Distance", making), encoding="utf-8")
-    print(f"built {OUT.relative_to(ROOT)}: {len(EPISODES)} episodes, audio files: {len(list((OUT / 'audio').iterdir()))}")
+    print(f"built {OUT.relative_to(ROOT)}: {len(EPISODES)} pages, audio files: {len(list((OUT / 'audio').iterdir()))}")
 
 
 if __name__ == "__main__":

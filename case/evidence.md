@@ -96,7 +96,7 @@ Status: `book` · `invented-consistent` (a modern artefact the book entails) · 
 | E45 | Daniel Nugent swears he saw a boat with a single man near the shore, "the same boat in which I had just landed"; a woman saw a boat with one man push off from that spot. | 5688–5698 | V | book |
 | E46 | How Clerval came from Perth to the Irish shore is never told. | — | — | open |
 | E47 | Victor sees the body: Clerval. Two months' fever; in his ravings he called himself "the murderer of William, of Justine, and of Clerval"; only Kirwin understood his language. Three months in prison; at the assizes "The grand jury rejected the bill, on its being proved that I was on the Orkney Islands at the hour the body of my friend was found". | 5716–5750, 5934–5943 | V | book |
-| E48 | The letters blank the Irish town's name ("the town of ——"), so no Irish court record can be traced. The depositions reach us only through Victor. | 5711 | V | book / open |
+| E48 | The letters blank the Irish town's name ("the town of ——"), so no Irish court record can be traced (Tessa tries and fails, E83). The depositions reach us only through Victor. | 5711 | V | book / open |
 | E49 | On the voyage home Victor takes laudanum every night to sleep. | 6003 | V | book |
 
 ## Evian (Elizabeth) and after
@@ -117,3 +117,47 @@ Status: `book` · `invented-consistent` (a modern artefact the book entails) · 
 | E68 | A seashore hamlet: a gigantic monster armed with a gun and pistols put a cottage to flight, took their winter food and dogs, and went out across the sea ice. | 6781–6795 | V | book |
 | E69 | Three weeks on the ice; his dogs die; on a breaking floe he makes oars from the sledge; Walton's ship. He asks Walton to swear the creature will not live. | 6800–6880 | V | book |
 | E75 | Ernest, the middle brother, is the only member of the household the record leaves alive; nothing more is told of him. | 6497 | V | book / open |
+
+## The archive hunt (season finds, modern)
+
+Each find only confirms what the book already says; none answers an `open` question (bible rules 21–24). Text read
+from them on air is tagged `[[Archive]]` and is invented (not checked against the novel). Every record carries a year;
+by Judith's condition it is never said aloud (rule 3).
+
+| ID | Find | Where | Confirms | Status |
+|---|---|---|---|---|
+| E76 | A second box in Judith's loft: Margaret Saville's dockets on the backs of the letters ("Robert, from Archangel, rec'd"), in her hand. | Saville family papers, Kent | The letters were real post that reached her (E01) | invented-consistent |
+| E77 | In the same box, a later family letter in another hand: "Robert is home, and will not speak of the north." | Saville family papers, Kent | Walton got home (E01, Judith's line in ep08); says nothing of the creature | invented-consistent |
+| E78 | Geneva burial register: William, son of Alphonse Frankenstein, former syndic, buried in May; "found dead on the plain of Plainpalais". | Geneva state archives (Reber) | E10, E12 | invented-consistent |
+| E79 | The trial file (E25a) and the sentence register (E25) shown on tape, in the reading room. | Geneva state archives (Reber) | E16–E25 | invented-consistent (= E25, E25a) |
+| E80 | The Ingolstadt university register (now kept in Munich): "Victor Frankenstein, of Geneva" entered as a student of natural philosophy; some time later "Henry Clerval, of Geneva". | University archive, Munich (by letter) | E07, E09b | invented-consistent |
+| E81 | An Ingolstadt town minute: a burial vault and the charnel house found disturbed over a winter, bones missing; "the doer unknown". Names no one. | Ingolstadt town archive (by letter) | E05/E09: Victor collected from vaults and charnel houses, unseen | invented-consistent |
+| E82 | Paris police papers: a Turkish merchant, long resident in Paris, condemned, escapes from prison the night before his execution; the De Lacey father, son and daughter imprisoned, tried, their fortune confiscated, condemned to perpetual exile. | Paris police papers, a Paris library (researcher) | E28, L3824–3932: the creature's account of the De Laceys and Safie's father | invented-consistent |
+| E83 | Tessa writes to libraries along the Irish coast; with the town blanked in the letters (E48) nothing can be traced. | Irish libraries | E48 (stays untraceable) | invented-consistent (a dead end) |
+| E84 | Geneva notarial papers of the Clerval family: "Henry Clerval, son, deceased in Ireland. His effects to be returned to his father." No town named. | Geneva state archives (Reber) | E44, E47: Clerval died in Ireland | invented-consistent |
+| E85 | Savoy death register for Evian: "Elisabeth Lavenza, wife of Victor Frankenstein of Geneva, found dead at the inn on the night of her marriage"; a note of the search on the lake with boats and nets, "nothing found". | Departmental archive, Annecy (Reber) | E51–E56 | invented-consistent |
+| E86 | Lloyd's List: "Arrived, from Archangel, master Walton." No port or date of arrival is said on air. | Lloyd's List (library) | Walton came home (E01, E77) | invented-consistent |
+| E87 | Reber files a historian's note in Justine Moritz's file (he describes it himself; not an Archive reading), setting out the trial file's "steps" and the season's evidence. The register's entry is not changed; only a court could do that. | Geneva state archives (modern act) | E25 stays true; nothing past changes | invented-consistent (modern) |
+
+
+## Archive texts (as read on air)
+
+Every `[[Archive]]` line in the episodes, word for word. `tools/check_quotes.py` refuses an Archive line that isn't
+here. All invented-consistent (rules 21–24).
+
+| Find | Ep | Text |
+|---|---|---|
+| E76 | 01 | Robert. From Saint Petersburgh. Received. |
+| E76 | 01 | Robert. From Archangel. Received. |
+| E78 | 02 | William, son of Monsieur Alphonse Frankenstein, formerly syndic of this Republic. Found dead on the plain of Plainpalais. Buried. |
+| E79 | 03 | Justine Moritz. For the murder of William, son of Monsieur Alphonse Frankenstein. Condemned. Executed. |
+| E80 | 04 | Victor Frankenstein, of Geneva. Student of natural philosophy. |
+| E80 | 04 | Henry Clerval, of Geneva. |
+| E81 | 04 | The burial vault and the charnel house found disturbed, and bones missing. The doer unknown. |
+| E82 | 05 | The Turk, merchant, long resident in this city, condemned to death. Escaped from his prison on the night before the day fixed for his execution. De Lacey the father, De Lacey the son, Felix, and the daughter, Agatha, taken and confined. Their fortune confiscated. Condemned to perpetual exile. |
+| E84 | 06 | Henry Clerval, son, deceased in Ireland. His effects to be returned to his father. |
+| E85 | 07 | Elisabeth Lavenza, wife of Victor Frankenstein of Geneva, found dead at the inn on the night of her marriage. |
+| E85 | 07 | The lake searched with boats and nets, and the woods. Nothing found. |
+| E77 | 08 | Robert is home, and will not speak of the north. |
+| E86 | 08 | Arrived, from Archangel, master Walton. |
+

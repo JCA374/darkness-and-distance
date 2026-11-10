@@ -42,10 +42,17 @@ In `case/bible.md`, numbered rules the reader never hears, covering:
 ## 3. Cast (invent only what the investigation needs)
 - **Host**: an active investigator, not a neutral voice (Koenig in *Serial*): she says what she believed and when it
   changed. One verbal habit, warm, allowed a dry joke for breathing room, never jokes about a victim.
-  Stance: wonder, not debunking. When the source material is extraordinary, the host's question is "this is
-  incredible; could it really be true?", and every episode lifts forward what holds up (independent witnesses,
-  records that agree, details that match). Doubts and gaps are named honestly, but the arc builds the case for truth.
-  Don't let her sound like a sceptic dismantling a tall tale.
+  Stance: a believer with reasons. She set out to disprove the record and couldn't. Every episode has a "why I
+  believe this part" beat tied to a document and one "the thing that nags me" beat (a little doubt keeps her
+  believable). Watch for overclaims ("the only explanation", "everyone believed her"); they hurt more than doubt.
+- **The archive hunt**: one find per episode in family papers, state archives, registers or newspapers, staged as
+  a scene (where, who helped, the page read aloud, why it matters). Include one honest dead end. Finds only
+  confirm the source and never close an open question. Log each one in evidence.md as invented-consistent. A
+  separate `[[Archive]]` voice reads them, and the quote gate checks each against evidence.md "Archive texts".
+- **Hooks**: a two-minute trailer (cold open, a Serial-style thesis, stakes, the mission, ending on the question);
+  a season mission (e.g. clear a wrongly convicted person's name); three acts per episode; a cliffhanger in the
+  last minute; an open-loop ledger in the outline so every loop closes or is declared open on air.
+  Worked example, with the user's request, research sources, trailer and ledger: `examples/hooks-and-archive/`.
 - **3–4 recurring guests**, each owning one kind of evidence (the documents' owner, a legal historian, a forensic
   expert…). Distinct speech habits so a listener can tell them apart by ear. Real-sounding but fictional names; no
   real living experts or institutions put words in their mouths.

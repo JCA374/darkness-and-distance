@@ -4,6 +4,8 @@ host's narration must be verbatim from the 1831 text (cuts allowed only between 
 
 Compares on letters and digits only, so punctuation, quote marks, line breaks and the ae ligature don't matter.
 Modern speech that the host quotes (an email, a guest) goes in ALLOW below.
+[[Archive]] paragraphs (the season's invented finds, bible rules 21-24) are not from the novel: each must appear
+verbatim in case/evidence.md under "Archive texts", so every invented document is on file.
 
     python3 tools/check_quotes.py            # all episodes
     python3 tools/check_quotes.py ep03       # one
@@ -15,12 +17,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "source" / "frankenstein-1831-gutenberg84.txt"
+EVIDENCE = ROOT / "case" / "evidence.md"
 READERS = {"Walton", "Victor", "Creature"}
 MIN_WORDS = 3  # shorter quotes ("cousin", "the dæmon") are names and terms, not claims
 
 # Quoted phrases in the host's narration that are modern (not from the book).
 ALLOW = {
     "give me a month",
+    "do you know these people",
+    "who are these people to you",
 }
 
 
@@ -32,6 +37,8 @@ def norm(text: str) -> str:
 
 def main() -> int:
     src = norm(SOURCE.read_text(encoding="utf-8"))
+    ev = EVIDENCE.read_text(encoding="utf-8")
+    archive = norm(ev[ev.index("## Archive texts"):]) if "## Archive texts" in ev else ""
     # The text has "dæmon"; scripts may write "daemon". Both normalise to "daemon".
     names = sys.argv[1:]
     files = sorted((ROOT / "episodes").glob("ep*.md"))
@@ -42,6 +49,11 @@ def main() -> int:
         for n, para in enumerate(f.read_text(encoding="utf-8").split("\n\n"), 1):
             para = re.sub(r"^\[grave\]\s*", "", para.strip())  # [grave] = read slower, not text
             m = re.match(r"\[\[(\w+)\]\]\s*(.*)", para, re.S)
+            if m and m.group(1) == "Archive":
+                if norm(m.group(2)) not in archive:
+                    bad += 1
+                    print(f"{f.stem} ¶{n}: ARCHIVE TEXT NOT ON FILE in evidence.md: {m.group(2)[:100]}")
+                continue
             if m and m.group(1) in READERS:
                 pieces = [m.group(2)]
             elif m:
