@@ -12,3 +12,4 @@
 - Script feedback: `writing-feedback` skill. Notes page https://claude.ai/artifact/HKqtJUHtkTghaUQw82Esbb (pinned), built
   by `python3 tools/feedback_page.py`. On "I left notes": follow the skill's process; downstream = check_quotes,
   re-record changed chapters, export, push.
+  ★ Keep marks are collected in `feedback/keepers.md`: read it before any rewrite, and never rewrite kept words unless asked.
