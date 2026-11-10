@@ -34,3 +34,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000   # ms; the site with the .m4b is ~200 MB and can take over 10 min to sync
