@@ -42,7 +42,7 @@ In `case/bible.md`, numbered rules the reader never hears, covering:
 ## 3. Cast (invent only what the investigation needs)
 - **Host**: an active investigator, not a neutral voice (Koenig in *Serial*): she says what she believed and when it
   changed. One verbal habit, warm, allowed a dry joke for breathing room, never jokes about a victim.
-  Stance: a believer with reasons. She set out to disprove the record and couldn't. Every episode has a "why I
+  Stance: a believer with reasons. The more she checks the record, the stranger it gets and the more sources back it up (not "I tried to prove it false": the user wants discovery, not a failed debunk). Every episode has a "why I
   believe this part" beat tied to a document and one "the thing that nags me" beat (a little doubt keeps her
   believable). Watch for overclaims ("the only explanation", "everyone believed her"); they hurt more than doubt.
 - **The archive hunt**: one find per episode in family papers, state archives, registers or newspapers, staged as

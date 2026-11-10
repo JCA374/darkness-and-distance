@@ -163,7 +163,7 @@ def main():
         book = f'<a class="btn" href="audio/{html.escape(m4b[0].name)}" download>Download the whole season as an audiobook (.m4b, {mb:.0f} MB)</a>'
     index = f"""<section class="hero"><img src="cover.jpg" alt="Cover: a dog sledge on the Arctic ice under a night sky">
 <div><h1>Darkness and Distance</h1>
-<p class="lede">For a year, Tessa Lind tried to prove that a sea captain's letters from the Arctic were lying. She couldn't.
+<p class="lede">For a year, Tessa Lind checked a sea captain's letters from the Arctic against every record she could find. The more she learned, the stranger it got, and the more of it checked out.
 Five deaths, a young woman executed for a murder she didn't commit, and a suspect last seen drifting north on the ice.
 Eight episodes and a trailer. Could it really be true?</p>
 {book}<a class="btn" href="case.html">Open the case file</a></div></section>

@@ -6,8 +6,8 @@ world before → the event → investigation & aftermath → the unresolved. Evi
 
 ## ep00 — Trailer (about 300 words, 2 minutes)
 - Cold open: Walton at midnight, "I am interrupted. What do these sounds portend?" (E70).
-- Thesis, in the Serial mould: for the last year she has tried to prove a sea captain's letters are lying, and
-  couldn't.
+- Thesis, in the Serial mould: for the last year she has checked a sea captain's letters against the record; the
+  more she learns, the stranger it gets, and the more sources back it up.
 - Stakes: five dead, a young woman hanged for a murder she didn't commit, the suspect never caught, last seen on
   the ice.
 - The hunt: Kent, Geneva, Munich, Paris, Savoy, Lloyd's List. Every record agrees with the letters.

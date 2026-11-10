@@ -6,15 +6,15 @@ A sea captain wrote that, in the Arctic, to his sister in England. More than two
 
 ---
 
-I'm Tessa Lind. For the last year, I've been trying to prove that that captain's letters are lying.
+I'm Tessa Lind. For the last year, I've been checking that captain's letters against every record I could find.
 
-I couldn't.
+The more I learn, the stranger it gets. And the more sources I find, the more of it checks out.
 
 [grave] They describe five deaths. A little boy, strangled in a park in Geneva. A young woman, executed for his murder, though the family she'd lived with swore she didn't do it. A young man, found on an Irish beach with the marks of fingers on his neck. A bride, on her wedding night. And her husband's father, who, by his son's account, died of grief.
 
 The person the letters name as the killer was never arrested, never charged and never caught. He was last seen on a raft of ice, drifting north.
 
-So I went looking. Into a loft in Kent. Into the state archives of Geneva, and a university register, and the papers of the Paris police. And the thing I kept finding, record after record, was that the letters were right.
+So I went looking. Into a loft in Kent. Into the state archives of Geneva, and a university register, and the papers of the Paris police. And record after record, the letters were right.
 
 [grave] There's one more thing. The young woman's name was Justine Moritz. In a register in Geneva, she is still written down as a murderer. I want to know if we can clear her name.
 

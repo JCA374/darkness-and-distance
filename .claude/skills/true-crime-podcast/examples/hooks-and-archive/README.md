@@ -60,7 +60,9 @@ Sources:
      that isn't word for word in `evidence.md` under "Archive texts".
 4. **Hooks.**
    - **A trailer (episode 0).** Cold open on the midnight cabin; then Serial's thesis turned around ("For the last
-     year, I've been trying to prove that that captain's letters are lying. I couldn't."); then the stakes, the
+     year, I've been checking that captain's letters against every record I could find. The more I learn, the stranger
+     it gets. And the more sources I find, the more of it checks out." The user rejected the first version, "trying
+     to prove the letters are lying. I couldn't": they want discovery, not a failed debunk); then the stakes, the
      hunt and the mission; and it ends on the question.
    - **A mission.** Clear Justine Moritz's name, still in the register as a murderer. Every episode asks "is it
      enough yet?", and the finale has the historian file a note in her file. The register itself is unchanged,

@@ -15,8 +15,8 @@ them, in Walton's hand, is the statement of a dying Genevan, Victor Frankenstein
 the being Victor says he made. Together they describe five deaths, one execution, one acquittal and a suspect who was
 never charged, never caught, and last seen on an ice raft drifting north.
 
-Tessa treats it as a cold case, and as something astonishing. She began by trying to prove the letters were lying
-and couldn't; by the end of episode 1 she says she believes them, and why. Her method is to go looking: family papers
+Tessa treats it as a cold case, and as something astonishing. She has spent a year checking the letters against the record,
+and the more she learns, the stranger it gets and the more sources back them up; by the end of episode 1 she says she believes them, and why. Her method is to go looking: family papers
 in Kent, the state archives in Geneva and Savoy, a university register, the Paris police papers, Lloyd's List. Every
 find confirms the letters (E76–E86). She keeps one honest doubt per episode ("the thing that nags me"), tests it, and
 either answers it or leaves it open, because a believer who never doubts is not believable.
@@ -133,7 +133,7 @@ and distance". The podcast ends where the book ends: no body, no pyre found, no 
 
 | Tag | Name | Who | Voice (Kokoro) | Habit |
 |---|---|---|---|---|
-| host | **Tessa Lind** | Host and reporter. American, works alone with a producer we never hear. A believer with reasons: tried to disprove the letters, couldn't, and goes to the archives to test them. One honest doubt per episode. | af_heart (narrator) | "Here's what we know." Counts things. A dry line now and then, never about a victim. |
+| host | **Tessa Lind** | Host and reporter. American, works alone with a producer we never hear. A believer with reasons: the more she checks the letters, the stranger it gets and the more sources back them; she goes to the archives to test them. One honest doubt per episode. | af_heart (narrator) | "Here's what we know." Counts things. A dry line now and then, never about a victim. |
 | Judith | **Judith Saville** | Retired schoolteacher, Kent. A many-times-great-niece of Margaret Saville. Owns the letters. | bf_emma | Precise, teacherly, corrects small errors. Says "mind you". Calls Walton "Robert". |
 | Reber | **Dr Anselm Reber** | Legal historian in Geneva, studies 18th-century Genevan criminal procedure. Fictional. | bm_george | Careful, formal, "in the procedure of the day…". Never says "I think" without "on the documents". |
 | Okafor | **Dr Paul Okafor** | Forensic pathologist, retired, consulted on the deaths from the descriptions. Fictional. | am_michael | Plain, short sentences. "What the body tells you is…" Refuses to go past the evidence. |

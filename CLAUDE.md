@@ -9,3 +9,6 @@
 - Site: `site/build.py`; pushing to main deploys via Actions.
 - Delivery: readers at 0.88 (`narration.speeds`); sad/frightening paragraphs start with `[grave]` (×0.9). Host tone is
   wonder ("could it really be true?") and builds the case for what holds. Example: `.claude/skills/true-crime-podcast/examples/grave-passages/`.
+- Script feedback: `writing-feedback` skill. Notes page https://claude.ai/artifact/HKqtJUHtkTghaUQw82Esbb (pinned), built
+  by `python3 tools/feedback_page.py`. On "I left notes": follow the skill's process; downstream = check_quotes,
+  re-record changed chapters, export, push.
