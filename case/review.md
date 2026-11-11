@@ -70,3 +70,19 @@ reported; it edited nothing.
 | r2-18 | Ledger: two boats never closed on air | ep08: "of the two men in two boats… this is the one who says it was him" | fixed |
 | r2-19 | Ledger: the Plainpalais figure only partly closes | ep05 says on air that the creature doesn't mention the storm sighting; ledger marked partial | fixed |
 | r2-20 | Other loops open and close as listed | — | ok |
+
+## Round 3 (2026-11-11): episode 2 rewritten as an investigation log
+
+The user asked for ep02 to be rewritten as Tessa's log of her investigation (not a retelling of the murder), with
+fewer proof and doubt beats, the story flowing, and the creature as the hook. Writer's own check against the source
+and the bible (no independent reviewer this round).
+
+| ID | Check | Result | Status |
+|---|---|---|---|
+| r3-1 | Quotes verbatim (check_quotes, incl. the new Salêve and "vast sheet of fire" lines, Walton's sledge line) | pass | ok |
+| r3-2 | Walk details against L2048–2062 (rested on a seat, Elizabeth's conjecture, torches) | match | ok |
+| r3-3 | Victor's night against L2182–2263 (Secheron, boat, storm, figure, Salêve, all night in the open air, five in the morning) | match | ok |
+| r3-4 | Inner states attributed ("Victor says…") | ok | ok |
+| r3-5 | Modern scenes (Plainpalais square, Secheron, cable car) invent nothing in the past | ok | ok |
+| r3-6 | Hand-off to ep03: its recap (figure, told no one, miniature in Justine's pocket) still matches | ok | ok |
+| r3-7 | E14 (his reasons for silence) no longer in ep02 | ep03 asks "why did Victor stay silent?", ep04 answers | accepted |

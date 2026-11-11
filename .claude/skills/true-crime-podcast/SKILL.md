@@ -45,6 +45,11 @@ In `case/bible.md`, numbered rules the reader never hears, covering:
   Stance: a believer with reasons. The more she checks the record, the stranger it gets and the more sources back it up (not "I tried to prove it false": the user wants discovery, not a failed debunk). Every episode has a "why I
   believe this part" beat tied to a document and one "the thing that nags me" beat (a little doubt keeps her
   believable). Watch for overclaims ("the only explanation", "everyone believed her"); they hurt more than doubt.
+  Story flow beats proof. Tell each episode as the log of her investigation (where she went, what she read there,
+  what she found), with the crime arriving through the documents, not as a retold story. Weigh a statement only
+  occasionally: one short belief beat and one doubt, never several proof passages in an episode, and never explain
+  why she believes something nobody would doubt (that a family's son existed). Hold the most arresting reveal (the
+  monster in the lightning) for the episode's last minute.
 - **The archive hunt**: one find per episode in family papers, state archives, registers or newspapers, staged as
   a scene (where, who helped, the page read aloud, why it matters). Include one honest dead end. Finds only
   confirm the source and never close an open question. Log each one in evidence.md as invented-consistent. A

@@ -24,13 +24,19 @@ world before → the event → investigation & aftermath → the unresolved. Evi
 - Rules shown: 3, 6, 7, 8 (first mention). Hook: "The first death is a little boy's." (The book gives no age.)
 
 ## ep02 — Plainpalais (2,300)
-- Cold open: Alphonse's letter, "the print of the murder's finger was on his neck" (E10).
-- World before: the Frankenstein household; Caroline's death (E07); Elizabeth; Justine's history (E11); William's eyes.
-- Event: May 7th, the walk, the search, five in the morning (E10, E12). The missing miniature.
-- Investigation: Okafor on manual strangulation and what a finger mark means (opinion, labelled). Victor's journey,
-  the storm, the figure on Salêve (E13), seen only by Victor. His silence and his reasons (E14).
-- Unresolved: Ernest's news: "the murderer has been discovered". Justine.
-- Rules shown: 5, 11 (first finger mark).
+Told as Tessa's log of three days in Geneva (2026-11-11 rewrite): the murder comes to us through the documents, read
+in the places they describe. Story first; one light "why I believe" (the register), one nag, no repeated proofs.
+- Cold open: Tessa on Plainpalais on a Thursday evening in May, children hiding; then Alphonse's line (E10).
+- Day one, the state archives: Reber and the burial register (E78). Then, in the hotel, Elizabeth's March letter:
+  the household, Caroline's death (E07), Elizabeth adopted and no blood relation, Justine named (E11), William.
+- Day two, the plain at dusk: Alphonse's letter read on the spot (E10, E12); the miniature gone; "Come, Victor";
+  Judith on the phone. Okafor that night: finger marks, "it doesn't tell you whose" (rule 11, first mark).
+- Day three, Secheron at night: Victor's walking-tour alibi with Clerval (E09c), the journey, the gates, the boat,
+  the storm; Tessa walks it; the Salêve. The figure in the lightning (E13), the climb.
+- Nag: only Victor saw it; the crew's giant (E02) is the same size.
+- Cliffhanger: he tells no one; Ernest says the family has found the murderer: the miniature in the pocket of
+  someone in the house. "Next time: Justine." (Victor's reasons for silence, E14, are left to ep03/ep04.)
+- Rules shown: 5, 11.
 
 ## ep03 — All Black (2,400)
 - Cold open: "The ballots had been thrown; they were all black" (E22).

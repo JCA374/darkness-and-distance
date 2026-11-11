@@ -184,6 +184,9 @@ market-woman; the confessor; the Genevan criminal judge; Walton's lieutenant, ma
   next find or the next death. The loops are tracked in `outline.md` (the open-loop ledger).
 - One archive scene per episode: where she looked, who helped, what the page says (Archive reader), and why it
   matters. Then a "why I believe this part" beat and a "the thing that nags me" beat.
+- Story flow first. An episode is the log of her investigation (where she went, what she read there), not a
+  retelling of the crime. Question a statement or weigh a proof only occasionally: at most one doubt and one short
+  belief beat per episode, and no explaining why she believes things nobody would doubt (user note, ep02).
 - Episode 0 is a two-minute trailer: why start and why keep listening.
 
 ## Decisions log
@@ -196,4 +199,5 @@ market-woman; the confessor; the Genevan criminal judge; Walton's lieutenant, ma
 | 2026-11-09 | Three reader voices; other historical quotes are spoken by the host. | Claude (proposal) |
 | 2026-11-09 | The ending stays the book's: suspect lost on the ice, no confirmation of death. | user (true to outcome) |
 | 2026-11-10 | Host is a believer with reasons and one honest doubt per episode; an archive hunt with a find each episode (E76–E87); a trailer (ep00); the mission to clear Justine's name; three acts with cliffhangers. | user |
+| 2026-11-11 | Episode 2 rewritten as Tessa's log of three days in Geneva; fewer proof/doubt beats; the figure in the storm is the episode's hook. | user |
 | 2026-11-09 | Host tone: wonder, not scepticism. "Could it really be true?", then lift forward what holds. Readers at 0.88 speed for gravity. | user |
