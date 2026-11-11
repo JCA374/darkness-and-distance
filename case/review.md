@@ -86,3 +86,15 @@ and the bible (no independent reviewer this round).
 | r3-5 | Modern scenes (Plainpalais square, Secheron, cable car) invent nothing in the past | ok | ok |
 | r3-6 | Hand-off to ep03: its recap (figure, told no one, miniature in Justine's pocket) still matches | ok | ok |
 | r3-7 | E14 (his reasons for silence) no longer in ep02 | ep03 asks "why did Victor stay silent?", ep04 answers | accepted |
+
+## Round 4 (2026-11-11): a map for newcomers, two held-back twists
+
+The user: a listener who doesn't know the story is dropped into a murder in ep02; give a spoiler-free overview, and
+keep a few twists back, confirmed by found documents. Writer's own check.
+
+| ID | Change | Status |
+|---|---|---|
+| r4-1 | ep02 opens with the map (route of the case, no outcomes; why we start with William) | done |
+| r4-2 | T1 Justine framed: ep00/ep01 no longer say she didn't do it; mission is "is the register right?"; ep03 clerk's line as Archive; ep05 Reber reads it again at the barn; site texts softened | done |
+| r4-3 | T2 wedding-night threat: bride and Alphonse dropped from the up-front death lists; ep06 tells the threat as Victor understood it; ep07 cold open is the pistol, the scream lands mid-episode, then the Evian register | done |
+| r4-4 | Leak grep (bible, Held-back twists) on ep00–ep04 and site | clean |

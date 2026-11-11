@@ -150,6 +150,7 @@ here. All invented-consistent (rules 21–24).
 | E76 | 01 | Robert. From Saint Petersburgh. Received. |
 | E76 | 01 | Robert. From Archangel. Received. |
 | E78 | 02 | William, son of Monsieur Alphonse Frankenstein, formerly syndic of this Republic. Found dead on the plain of Plainpalais. Buried. |
+| E25a | 03, 05 | The accused says that she passed the night in a barn, that she was woken by steps, and that she cannot account for the portrait. |
 | E79 | 03 | Justine Moritz. For the murder of William, son of Monsieur Alphonse Frankenstein. Condemned. Executed. |
 | E80 | 04 | Victor Frankenstein, of Geneva. Student of natural philosophy. |
 | E80 | 04 | Henry Clerval, of Geneva. |

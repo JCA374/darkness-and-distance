@@ -72,6 +72,12 @@ In `case/bible.md`, numbered rules the reader never hears, covering:
 - Order for a novel: open on the most arresting surviving document (often the end), tell the crimes in the order
   the *investigator meets them*, put the suspect's own statement at the midpoint, test the strongest alternative
   theory honestly before the finale, end with what is proven, what isn't, and the source's own outcome.
+- **Assume the listener doesn't know the book.** Early (episode 2, after the recap) give a spoiler-free map: who
+  the narrator is, the timeline, the route of the case by place, and why the season tells it in this order. No outcomes.
+- **Hold back two or three twists you know** (who was framed, who a threat was really for). In the bible list each
+  with: what may not be said before when, the plant, the reveal episode, and a found document that confirms it when it
+  lands (a trial clerk's line planted early and read again at the reveal works well). Keep the trailer, episode 1's
+  death list and the site summaries free of them, and grep for leak words before release.
 - Victims are people first: give each a life before the death (true-crime-writer, victim-centred approach). The
   perpetrator gets context, not glamour.
 - `case/outline.md`: one section per episode with target words, the beats, the evidence IDs it uses, the rules it

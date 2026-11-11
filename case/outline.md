@@ -27,6 +27,8 @@ world before → the event → investigation & aftermath → the unresolved. Evi
 Told as Tessa's log of three days in Geneva (2026-11-11 rewrite): the murder comes to us through the documents, read
 in the places they describe. Story first; one light "why I believe" (the register), one nag, no repeated proofs.
 - Cold open: Tessa on Plainpalais on a Thursday evening in May, children hiding; then Alphonse's line (E10).
+- The map (after the recap, ~250 words): Victor's life and the route of the case, no outcomes; why we start with the
+  first death and go back to Ingolstadt in ep04; "things I didn't believe until I'd held the paper" (bible, Held-back twists).
 - Day one, the state archives: Reber and the burial register (E78). Then, in the hotel, Elizabeth's March letter:
   the household, Caroline's death (E07), Elizabeth adopted and no blood relation, Justine named (E11), William.
 - Day two, the plain at dusk: Alphonse's letter read on the spot (E10, E12); the miniature gone; "Come, Victor";
@@ -151,5 +153,7 @@ One archive find per episode (E76–E87). Each act ends on a small open loop, an
 | Perth to Ireland | ep06 | stays open, said on air in ep06 and ep08 |
 | The two boats | ep06 | ep08 (the creature owns Clerval; said on air) |
 | The scream against "as they slept" | ep07 | ep08 (left open, said so) |
+| T1: how the jewel got into Justine's pocket | ep03 (clerk's "steps", Archive) | ep05 (barn; the same line read again) |
+| T2: who the wedding-night threat was for | ep06 (told as Victor understood it) | ep07 (the scream; the Evian register) |
 | "The one piece of evidence that settles it" | ep07 | ep08 (the cabin) |
 

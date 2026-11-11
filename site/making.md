@@ -8,7 +8,7 @@ Mary Shelley's *Frankenstein; or, The Modern Prometheus* was published in 1818 a
 
 The novel is already a case file. It's written as letters from an Arctic captain, Robert Walton, to his sister.
 Inside them is Victor Frankenstein's dying statement, and inside that, the statement of the being he made. Read as
-true crime, the book has five deaths, a wrongful execution, an acquittal on an alibi, and a suspect who was never
+true crime, the book has five deaths, an execution, an acquittal on an alibi, and a suspect who was never
 charged and was last seen on the ice. The podcast keeps every past event and the book's ending. It invents only the
 investigation: a host, three guests, a sea chest in Kent, Victor's corrections in a second ink, and the archive
 documents Tessa finds, one per episode (a burial register, a trial file, a university register, the Paris police

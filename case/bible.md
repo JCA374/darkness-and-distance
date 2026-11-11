@@ -127,6 +127,20 @@ and distance". The podcast ends where the book ends: no body, no pyre found, no 
 24. **No year, even in the archives.** Every record carries a year. Judith's condition (ep01) is that it is never
     said aloud, and Tessa keeps it for every record.
 
+## Held-back twists (2026-11-11, user)
+
+The listener is new to the story. Episode 2 opens with a spoiler-free map (the route: Geneva, Ingolstadt, the
+November night, two quiet years, then Geneva, a courtroom, the glacier, Orkney, Ireland, home for a wedding, the
+ice). Two things we know are kept back, and each lands with a document.
+
+| Twist | Never said before | Plant | Reveal | Confirming document |
+|---|---|---|---|---|
+| T1 Justine was framed: the creature slipped the miniature into her dress as she slept | ep05 (no "innocent", "didn't do it" or "clear her name" as Tessa's claim; she *said* so, Elizabeth believed her, the family swore it; the mission is "is the register right?") | ep03: the clerk's note read by the Archive voice ("woken by steps"); Reber underlined it | ep05: the barn passage (E33) | ep05: Reber reads the same clerk's line again (E25a) |
+| T2 "I shall be with you on your wedding-night" was aimed at Elizabeth | ep07 (no bride or Alphonse among the dead in ep00/ep01: "two more, later on"; ep06 tells the threat only as Victor understood it, no wink) | ep02 map "home for a wedding"; ep06 the threat; ep07 "The day after. Hold onto that." | ep07: the scream, mid-episode (cold open is the pistol, not the scream) | ep07: the Evian parish register and the officer's note (E85) |
+
+Leak check before each release: grep ep00–ep04 and `site/` for innocent, didn't do it, clear her name, wrongful,
+bride, wedding night, Evian, died of grief.
+
 ## Cast
 
 ### Invented, modern (the investigation)
@@ -200,4 +214,5 @@ market-woman; the confessor; the Genevan criminal judge; Walton's lieutenant, ma
 | 2026-11-09 | The ending stays the book's: suspect lost on the ice, no confirmation of death. | user (true to outcome) |
 | 2026-11-10 | Host is a believer with reasons and one honest doubt per episode; an archive hunt with a find each episode (E76–E87); a trailer (ep00); the mission to clear Justine's name; three acts with cliffhangers. | user |
 | 2026-11-11 | Episode 2 rewritten as Tessa's log of three days in Geneva; fewer proof/doubt beats; the figure in the storm is the episode's hook. | user |
+| 2026-11-11 | A map of the story opens ep02; two twists held back (Justine framed; the wedding-night threat), each confirmed by a document when it lands. | user |
 | 2026-11-09 | Host tone: wonder, not scepticism. "Could it really be true?", then lift forward what holds. Readers at 0.88 speed for gravity. | user |

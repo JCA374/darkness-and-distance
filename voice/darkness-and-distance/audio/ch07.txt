@@ -2,7 +2,7 @@ Episode 7. Evian.
 
 [pause 1.0]
 
-[grave] [[Victor]] I discovered no trace of him and was beginning to conjecture that some fortunate chance had intervened to prevent the execution of his menaces when suddenly I heard a shrill and dreadful scream.
+[grave] [[Victor]] I had been calm during the day, but so soon as night obscured the shapes of objects, a thousand fears arose in my mind. I was anxious and watchful, while my right hand grasped a pistol which was hidden in my bosom.
 
 [pause 1.5]
 
@@ -10,7 +10,7 @@ From a sea chest in Kent, this is Darkness and Distance. I'm Tessa Lind.
 
 Last time, Henry [Clerval](/klɛɹvˈɑl/) was found strangled on an Irish beach. Victor was arrested, raved for two months that he was the murderer, and was cleared by a grand jury because he'd been in the Orkneys. Days before Henry died, the creature had told Victor, "I shall be with you on your wedding-night."
 
-This episode is about Elizabeth [Lavenza](/ləvˈɛnzə/). And it's the episode where I have to test the one theory that could still make all of this ordinary: that Victor did it.
+This episode is about Elizabeth [Lavenza](/ləvˈɛnzə/), and the wedding.
 
 [pause 1.5]
 
@@ -42,13 +42,15 @@ They were married in Geneva. After the ceremony there was a large party at his f
 
 Victor says that on her wedding day Elizabeth was melancholy, and that his father took it for a bride's nerves. They landed at Evian at eight in the evening. They walked on the shore, then went to the inn.
 
-[grave] The wind rose in the west. A storm of rain came down. And Victor, he says, kept one hand on a pistol hidden in his clothes.
+[grave] The wind rose in the west. A storm of rain came down. And Victor, as you heard at the top of this episode, kept one hand on the pistol in his coat.
 
 [grave] Elizabeth noticed. She asked him what was frightening him. He told her, "this night, and all will be safe; but this night is dreadful, very dreadful." After an hour, he asked her to go to bed. He would join her, he said, once he knew where his enemy was.
 
-So Victor walked up and down the passages of the inn, checking every corner. He found nothing. He'd begun to think the creature might not come.
+So Victor walked up and down the passages of the inn, checking every corner. He found nothing.
 
-[grave] And then, the scream from the top of this episode. It came from the room Elizabeth had gone to. It came again. He ran in.
+[grave] [[Victor]] I discovered no trace of him and was beginning to conjecture that some fortunate chance had intervened to prevent the execution of his menaces when suddenly I heard a shrill and dreadful scream.
+
+[grave] It came from the room Elizabeth had gone to. It came again. He ran in.
 
 [grave] [[Victor]] She was there, lifeless and inanimate, thrown across the bed, her head hanging down and her pale and distorted features half covered by her hair.
 
@@ -88,7 +90,7 @@ Think about what that page means. On the night Elizabeth died, the people of Evi
 
 [pause 1.5]
 
-So let's do it properly. Let's make the case against Victor Frankenstein, as strongly as I can.
+There's one theory that could still make all of this ordinary. That Victor did it. So let's do it properly. Let's make the case against Victor Frankenstein, as strongly as I can.
 
 He is the only person who has ever claimed to see this creature in Geneva, in [Ingolstadt](/ˈɪŋɡəlʃtæt/), or at Evian. In each case he was alone, at night, in a state of great agitation. He had two long breakdowns with fever and delirium, one in [Ingolstadt](/ˈɪŋɡəlʃtæt/) and one in Ireland, and in the second one he called himself the murderer of William, [Justine](/ʤəstˈin/) and Henry, over and over, for two months. He says a "real insanity" took hold of him in the weeks before his wedding.
 
