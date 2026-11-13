@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the GitHub Pages site into _site/ from the repo: episodes/, case/, voice/<slug>/audio/.
+"""Build the GitHub Pages site into _site/ from the repo: episodes/, season2/, case/, voice/<slug>/audio/.
 
     pip install markdown pyyaml   (the Actions workflow does this)
     python3 site/build.py
@@ -15,6 +15,13 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
 AUDIO = ROOT / "voice" / "darkness-and-distance" / "audio"
+# Season two lives beside season one: its own scripts, show notes, audio dir and output folder.
+SEASONS = [
+    {"n": 2, "eps": ROOT / "season2" / "episodes", "yaml": ROOT / "site" / "episodes-s2.yaml",
+     "audio": ROOT / "voice" / "dd-season2" / "audio", "out": "s2", "title": "Season two: A Double Existence"},
+    {"n": 1, "eps": ROOT / "episodes", "yaml": ROOT / "site" / "episodes.yaml",
+     "audio": AUDIO, "out": "", "title": "Season one: Could It Be True?"},
+]
 REPO = "https://github.com/JCA374/darkness-and-distance"
 EPISODES = yaml.safe_load((ROOT / "site" / "episodes.yaml").read_text(encoding="utf-8"))
 
@@ -22,6 +29,7 @@ SPEAKERS = {
     "Judith": ("Judith Saville", "guest"),
     "Reber": ("Dr Anselm Reber", "guest"),
     "Okafor": ("Dr Paul Okafor", "guest"),
+    "Kessler": ("Dr Marian Kessler", "guest"),
     "Walton": ("Robert Walton (letters, read)", "reader"),
     "Victor": ("Victor Frankenstein (statement, read)", "reader"),
     "Creature": ("The creature (as recorded, read)", "reader"),
@@ -103,9 +111,9 @@ def transcript(md_text):
     return "\n".join(out)
 
 
-def duration(n):
+def duration(n, audio=AUDIO):
     import subprocess
-    mp3 = AUDIO / f"ch{n:02d}.mp3"
+    mp3 = audio / f"ch{n:02d}.mp3"
     if not mp3.exists():
         return ""
     try:
@@ -124,67 +132,94 @@ def doc_page(title, files, intro):
     return "\n".join(parts)
 
 
-def main():
-    if OUT.exists():
-        shutil.rmtree(OUT)
-    (OUT / "ep").mkdir(parents=True)
-    (OUT / "audio").mkdir()
-    shutil.copy(ROOT / "site" / "static" / "cover.jpg", OUT / "cover.jpg")
-    (OUT / ".nojekyll").write_text("")
-    m4b = sorted(AUDIO.glob("*.m4b"))
-    for f in list(AUDIO.glob("ch*.mp3")) + m4b:
-        shutil.copy(f, OUT / "audio" / f.name)
-
+def season_section(season):
+    """Write a season's episode pages and copy its audio; return its index cards and the m4b link."""
+    audio, sub = season["audio"], season["out"]
+    episodes = yaml.safe_load(season["yaml"].read_text(encoding="utf-8"))
+    ep_dir = OUT / "ep" / sub if sub else OUT / "ep"
+    au_dir = OUT / "audio" / sub if sub else OUT / "audio"
+    ep_dir.mkdir(parents=True, exist_ok=True)
+    au_dir.mkdir(parents=True, exist_ok=True)
+    depth = 2 if sub else 1
+    up = "../" * depth
+    au_url = f"audio/{sub}/" if sub else "audio/"
+    m4b = sorted(audio.glob("*.m4b")) if audio.exists() else []
+    for f in (list(audio.glob("ch*.mp3")) if audio.exists() else []) + m4b:
+        shutil.copy(f, au_dir / f.name)
     cards = []
-    first, last = min(e["n"] for e in EPISODES), max(e["n"] for e in EPISODES)
-    for e in EPISODES:
+    first, last = min(e["n"] for e in episodes), max(e["n"] for e in episodes)
+    for e in episodes:
         n = e["n"]
         label = "Trailer" if n == 0 else f"Episode {n}"
-        mp3 = f"audio/ch{n:02d}.mp3"
-        player = f'<audio controls preload="none" src="{mp3}"></audio>' if (AUDIO / f"ch{n:02d}.mp3").exists() else '<p class="meta">Audio coming soon.</p>'
-        cards.append(f"""<div class="ep"><h3><a href="ep/ep{n:02d}.html">{label}: {html.escape(e['title'])}</a></h3>
-<div class="meta">{duration(n)}</div>{player}<p>{html.escape(e['summary'])}</p></div>""")
-        md = (ROOT / "episodes" / f"ep{n:02d}.md").read_text(encoding="utf-8")
+        mp3 = f"{au_url}ch{n:02d}.mp3"
+        has = (audio / f"ch{n:02d}.mp3").exists()
+        page_url = f"ep/{sub + '/' if sub else ''}ep{n:02d}.html"
+        player = f'<audio controls preload="none" src="{mp3}"></audio>' if has else '<p class="meta">Audio coming soon.</p>'
+        cards.append(f"""<div class="ep"><h3><a href="{page_url}">{label}: {html.escape(e['title'])}</a></h3>
+<div class="meta">{duration(n, audio)}</div>{player}<p>{html.escape(e['summary'])}</p></div>""")
+        md = (season["eps"] / f"ep{n:02d}.md").read_text(encoding="utf-8")
         prev = f'<a href="ep{n-1:02d}.html">← {"Trailer" if n == 1 else f"Episode {n-1}"}</a>' if n > first else "<span></span>"
         nxt = f'<a href="ep{n+1:02d}.html">Episode {n+1} →</a>' if n < last else "<span></span>"
         notes = "".join(f"<li>{html.escape(x)}</li>" for x in e.get("notes", []))
-        body = f"""<p class="meta"><a href="../index.html#episodes">All episodes</a></p>
+        body = f"""<p class="meta"><a href="{up}index.html#season{season['n']}">All episodes</a> · {html.escape(season['title'])}</p>
 <h1>{label}: {html.escape(e['title'])}</h1>
-{('<audio controls preload="none" src="../' + mp3 + '"></audio>') if (AUDIO / f"ch{n:02d}.mp3").exists() else ''}
+{('<audio controls preload="none" src="' + up + mp3 + '"></audio>') if has else ''}
 <p class="lede">{html.escape(e['summary'])}</p>
 <h2>Show notes</h2><ul>{notes}</ul>
 <h2>Transcript</h2><div class="transcript">{transcript(md)}</div>
 <div class="pager">{prev}{nxt}</div>"""
-        (OUT / "ep" / f"ep{n:02d}.html").write_text(page(f"{label}: {e['title']} · Darkness and Distance", body, 1), encoding="utf-8")
-
+        (ep_dir / f"ep{n:02d}.html").write_text(
+            page(f"{label}: {e['title']} · Darkness and Distance", body, depth), encoding="utf-8")
     book = ""
     if m4b:
         mb = m4b[0].stat().st_size / 1e6
-        book = f'<a class="btn" href="audio/{html.escape(m4b[0].name)}" download>Download the whole season as an audiobook (.m4b, {mb:.0f} MB)</a>'
+        book = f'<a class="btn" href="{au_url}{html.escape(m4b[0].name)}" download>Download the whole season as an audiobook (.m4b, {mb:.0f} MB)</a>'
+    return cards, book, len(episodes)
+
+
+def main():
+    if OUT.exists():
+        shutil.rmtree(OUT)
+    OUT.mkdir()
+    shutil.copy(ROOT / "site" / "static" / "cover.jpg", OUT / "cover.jpg")
+    (OUT / ".nojekyll").write_text("")
+    built = {s["n"]: season_section(s) for s in SEASONS}
+    cards2, book2, n2 = built[2]
+    cards1, book1, n1 = built[1]
+
     index = f"""<section class="hero"><img src="cover.jpg" alt="Cover: a dog sledge on the Arctic ice under a night sky">
 <div><h1>Darkness and Distance</h1>
 <p class="lede">For a year, Tessa Lind checked a sea captain's letters from the Arctic against every record she could find. The more she learned, the stranger it got, and the more of it checked out.
-Five deaths, a young woman executed for a murder she didn't commit, and a suspect last seen drifting north on the ice.
-Eight episodes and a trailer. Could it really be true?</p>
-{book}<a class="btn" href="case.html">Open the case file</a></div></section>
+Five deaths, a young woman executed for a murder she didn't commit, and a suspect last seen drifting north on the ice.</p>
+<p class="lede"><b>Season two, A Double Existence:</b> a psychiatrist asks Tessa to read the letters again, as if the dying man on the ice was the only one there.
+Could it really be him?</p>
+<a class="btn" href="#season2">Season two</a><a class="btn" href="#season1">Season one</a><a class="btn" href="case.html">Open the case file</a></div></section>
 <div class="note"><b>This is fiction.</b> It retells Mary Shelley's novel <i>Frankenstein</i> (1818; 1831 text) as a cold-case investigation.
 Every event, date and quotation from the past comes from the novel, and nothing in it changes the book's outcome.
-The host, Tessa Lind, and her guests Judith Saville, Dr Anselm Reber and Dr Paul Okafor are invented, as are the second ink in the
-letters and every archive document Tessa finds (the Saville family papers, the Geneva trial file and registers, the university register,
-the Paris police papers, the Savoy register and the Lloyd's List entry). They only ever confirm what the novel says. Voices are synthetic (Kokoro text-to-speech).</div>
-<h2 id="episodes">Episodes</h2>
-{''.join(cards)}"""
+The host, Tessa Lind, and her guests Judith Saville, Dr Anselm Reber, Dr Paul Okafor and Dr Marian Kessler are invented, as are the second ink in the
+letters and every archive document Tessa finds (family papers, Geneva, Munich, Orkney and Savoy registers, police papers, a conservator's reports).
+They only ever confirm what the novel says. Season two's theory about Victor is a reading of the novel, not a fact in it. Voices are synthetic (Kokoro text-to-speech).</div>
+<span id="episodes"></span>
+<h2 id="season2">Season two: A Double Existence</h2>
+<p>Tessa goes back through the case in the order of Victor's own life, asking one question at every step: who else saw it?</p>
+{book2}
+{''.join(cards2)}
+<h2 id="season1">Season one: Could It Be True?</h2>
+{book1}
+{''.join(cards1)}"""
     (OUT / "index.html").write_text(page("Darkness and Distance · a true-crime podcast", index), encoding="utf-8")
 
-    case = doc_page("The case file", ["case/bible.md", "case/evidence.md", "case/outline.md"],
+    case = doc_page("The case file", ["case/bible.md", "case/evidence.md", "case/outline.md",
+                                      "season2/case/bible.md", "season2/case/evidence.md", "season2/case/outline.md"],
                     "The working files behind the podcast: the Rules of the Case that every episode obeys, the evidence locker "
-                    "(every fact with its line in the novel), and the episode plan with its reveal ladder. Contains spoilers.")
+                    "(every fact with its line in the novel), and the episode plans with their reveal ladders, for both seasons. Contains spoilers.")
     (OUT / "case.html").write_text(page("The case file · Darkness and Distance", case), encoding="utf-8")
 
     making = doc_page("How it was made", ["site/making.md", "case/review.md"],
-                      "From a public-domain novel to eight checked episodes and an audiobook.")
+                      "From a public-domain novel to two seasons of checked episodes and audiobooks.")
     (OUT / "making.html").write_text(page("How it was made · Darkness and Distance", making), encoding="utf-8")
-    print(f"built {OUT.relative_to(ROOT)}: {len(EPISODES)} pages, audio files: {len(list((OUT / 'audio').iterdir()))}")
+    n_audio = sum(1 for f in (OUT / "audio").rglob("*") if f.is_file())
+    print(f"built {OUT.relative_to(ROOT)}: {n1 + n2} pages, audio files: {n_audio}")
 
 
 if __name__ == "__main__":

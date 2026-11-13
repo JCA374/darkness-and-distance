@@ -9,6 +9,7 @@ verbatim in case/evidence.md under "Archive texts", so every invented document i
 
     python3 tools/check_quotes.py            # all episodes
     python3 tools/check_quotes.py ep03       # one
+    python3 tools/check_quotes.py --season 2 # season two (season2/episodes, both evidence files)
 Exit 1 if anything is not found.
 """
 import re
@@ -26,6 +27,8 @@ ALLOW = {
     "give me a month",
     "do you know these people",
     "who are these people to you",
+    # season two
+    "could it really be him",
 }
 
 
@@ -37,11 +40,21 @@ def norm(text: str) -> str:
 
 def main() -> int:
     src = norm(SOURCE.read_text(encoding="utf-8"))
-    ev = EVIDENCE.read_text(encoding="utf-8")
-    archive = norm(ev[ev.index("## Archive texts"):]) if "## Archive texts" in ev else ""
+    args = sys.argv[1:]
+    season = "1"
+    if "--season" in args:
+        i = args.index("--season")
+        season = args[i + 1]
+        del args[i:i + 2]
+    ep_dir = ROOT / "episodes" if season == "1" else ROOT / f"season{season}" / "episodes"
+    evidence = [EVIDENCE] + ([ROOT / f"season{season}" / "case" / "evidence.md"] if season != "1" else [])
+    archive = ""
+    for path in evidence:
+        ev = path.read_text(encoding="utf-8")
+        archive += norm(ev[ev.index("## Archive texts"):]) + " | " if "## Archive texts" in ev else ""
     # The text has "dæmon"; scripts may write "daemon". Both normalise to "daemon".
-    names = sys.argv[1:]
-    files = sorted((ROOT / "episodes").glob("ep*.md"))
+    names = args
+    files = sorted(ep_dir.glob("ep*.md"))
     if names:
         files = [f for f in files if f.stem in names]
     bad = 0

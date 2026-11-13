@@ -21,6 +21,7 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - run: pip install markdown pyyaml
       - run: python3 tools/check_quotes.py
+      - run: python3 tools/check_quotes.py --season 2
       - run: python3 site/build.py
       - uses: actions/upload-pages-artifact@v3
         with:

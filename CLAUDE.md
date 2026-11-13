@@ -1,6 +1,9 @@
 # Darkness and Distance (Frankenstein as a true-crime podcast)
 
 - Method: `.claude/skills/true-crime-podcast/SKILL.md`. Canon is `source/frankenstein-1831-gutenberg84.txt`; never contradict it.
+- Season 2 (*A Double Existence*: Victor's madness / a second self as main track, three doors kept open) lives in
+  `season2/` (own bible, evidence E88–E119, outline, episodes); season 1's rules still apply. Quote gate:
+  `python3 tools/check_quotes.py --season 2`. New guest Kessler = bf_alice (add to book.yaml before rendering).
 - Before changing an episode, read `case/bible.md` (Rules of the Case) and `case/evidence.md`. New invented facts must be
   `invented-consistent` and added to evidence.md; unanswered things stay `open`.
 - `python3 tools/check_quotes.py` must pass (quotes verbatim). Reviews go in `case/review.md`.

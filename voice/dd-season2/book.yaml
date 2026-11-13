@@ -1,0 +1,70 @@
+title: 'Darkness and Distance, Season Two: A Double Existence'
+kind: fiction
+author: Adapted from Mary Shelley, Frankenstein (1831 text)
+narrator: Kokoro TTS (af_heart)
+narration:
+  narrator: af_heart
+  speed: 1.0
+  paragraph_pause: 0.6
+  grave:
+    factor: 0.9
+    speeds:
+      narrator: 0.8
+    voices:
+      af_heart: af_heart,af_sarah
+    pitch:
+      narrator: -1.5
+  characters:
+    Judith: bf_emma
+    Reber: bm_george
+    Okafor: am_michael
+    Walton: bm_fable
+    Victor: bm_daniel
+    Creature: bm_lewis
+    Archive: bf_isabella
+    Kessler: bf_alice
+  speeds:
+    Walton: 0.88
+    Victor: 0.88
+    Creature: 0.88
+    Archive: 0.88
+    Kessler: 0.9
+chapters:
+  ch00: 'Trailer: The Only One There'
+  ch01: 'Episode 1: A Double Existence'
+  ch02: 'Episode 2: The Fever'
+  ch03: 'Episode 3: My Own Spirit'
+  ch04: 'Episode 4: The Ravings of a Madman'
+  ch05: 'Episode 5: Two Voices'
+  ch06: 'Episode 6: The Window'
+  ch07: 'Episode 7: Evian'
+  ch08: 'Episode 8: Darkness and Distance'
+sources:
+  ch00:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep00.md
+    sha1: dee7f054b765be8a9f47e30fcc3b02fce2301745
+  ch01:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep01.md
+    sha1: c6fb3ec3523dff207bdce50477211636e1898290
+  ch02:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep02.md
+    sha1: 8eef94d5427a4675033d6513dae181124349782a
+  ch03:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep03.md
+    sha1: ebe914f8bdb55481b7d02630a647e73593dd2f94
+  ch04:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep04.md
+    sha1: d040c0b27da856d5d925fec838e47717ee53f2c6
+  ch05:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep05.md
+    sha1: 2f12ef403051e4ddab3e3755375b15b730b8812d
+  ch06:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep06.md
+    sha1: 4fcee622584cb93628f9078e7c9ae5ec47b0c649
+  ch07:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep07.md
+    sha1: aff45afc742656b133553744484c26ed249704f7
+  ch08:
+    path: /home/jonas/code/other/true-crime/frankenstine/season2/episodes/ep08.md
+    sha1: 5a667a5d19a8d97a72eda0313e51c63d3cd62485
+cover: cover.jpg
